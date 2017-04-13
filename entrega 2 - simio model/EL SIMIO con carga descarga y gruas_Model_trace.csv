@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0,0227473278647775;Camion.939;BrightN7;14.TransferFailureLogic;[Notify] DestroyingEntity;Entity 'Camion.939' failed to initiate transfer from node
+0,0227473278647775;Camion.939;BrightN7;14.TransferFailureLogic;[Notify] DestroyingEntity;Entity 'Camion.939' failed to initiate transfer from node 'BrightN7'. The entity is being automatically destroyed. However, this warning may indicate a problem in the modeled logic.
+
