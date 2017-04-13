@@ -1,4 +1,4 @@
-Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0;--;--;--;--;Unable to evaluate status expression for graphic.
-0;--;--;--;--;Invalid index '847' into agent population. No dynamic agents are in the system.
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+"5,52329948655408E-05",Camion.877,TransferNode30,2.TransferFailureLogic,[Notify] DestroyingEntity,Entity 'Camion.877' failed to initiate transfer from node
+"5,52329948655408E-05",Camion.877,TransferNode30,2.TransferFailureLogic,[Notify] DestroyingEntity,"Entity 'Camion.877' failed to initiate transfer from node 'TransferNode30'. The entity is being automatically destroyed. However, this warning may indicate a problem in the modeled logic."
 
