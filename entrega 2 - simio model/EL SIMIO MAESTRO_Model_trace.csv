@@ -1,4 +1,0 @@
-Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-"0,0433103405418842",--,--,--,--,Destroying entity with seized resources
-"0,0433103405418842",--,--,--,--,"Entity 'Camion.1042' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
-
