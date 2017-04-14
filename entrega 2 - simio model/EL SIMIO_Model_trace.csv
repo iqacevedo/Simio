@@ -1,6 +1,0 @@
-Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-"0,000366618680240727",Camion.892,TransferNode103,1.TransferFailureLogic,[Notify] DestroyingEntity,Entity 'Camion.892' failed to initiate transfer from node
-"0,000366618680240727",Camion.892,TransferNode103,1.TransferFailureLogic,[Notify] DestroyingEntity,"Entity 'Camion.892' failed to initiate transfer from node 'TransferNode103'. The entity is being automatically destroyed. However, this warning may indicate a problem in the modeled logic."
-"0,000525413540479157",Camion.872,Output@KoalaPesajeSalida,4.TransferFailureLogic,[Notify] DestroyingEntity,Entity 'Camion.872' failed to initiate transfer from node
-"0,000525413540479157",Camion.872,Output@KoalaPesajeSalida,4.TransferFailureLogic,[Notify] DestroyingEntity,"Entity 'Camion.872' failed to initiate transfer from node 'Output@KoalaPesajeSalida'. The entity is being automatically destroyed. However, this warning may indicate a problem in the modeled logic."
-
