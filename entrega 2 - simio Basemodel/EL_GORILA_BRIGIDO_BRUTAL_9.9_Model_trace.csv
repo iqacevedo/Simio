@@ -1,0 +1,1242 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+"0,0763888888888889",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,0763888888888889",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,0763888888888889",Model,Model,20.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,0763888888888889",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,0763888888888889",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,0763888888888889",Model,Model,20.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,0805555555555555",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,0805555555555555",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,0805555555555555",Model,Model,20.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,0805555555555555",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,0805555555555555",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,0805555555555555",Model,Model,20.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,0843053521091745",Camion.1049,Output@Aserradero100,20.OnExited,[Begin],Process 'Output@Aserradero100.OnExited' started.
+"0,0843053521091745",Camion.1049,Output@Aserradero100,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero100.Exited'.
+"0,0843053521091745",Camion.1049,Output@Aserradero100,20.OnExited,[End],Process 'Output@Aserradero100.OnExited' ended.
+"0,0843053521091745",Camion.1050,Output@Aserradero88,20.OnExited,[Begin],Process 'Output@Aserradero88.OnExited' started.
+"0,0843053521091745",Camion.1050,Output@Aserradero88,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero88.Exited'.
+"0,0843053521091745",Camion.1050,Output@Aserradero88,20.OnExited,[End],Process 'Output@Aserradero88.OnExited' ended.
+"0,0843053521091745",Camion.1051,Output@Aserradero10,20.OnExited,[Begin],Process 'Output@Aserradero10.OnExited' started.
+"0,0843053521091745",Camion.1051,Output@Aserradero10,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero10.Exited'.
+"0,0843053521091745",Camion.1051,Output@Aserradero10,20.OnExited,[End],Process 'Output@Aserradero10.OnExited' ended.
+"0,0843053521091745",Camion.1052,Output@Aserradero11,20.OnExited,[Begin],Process 'Output@Aserradero11.OnExited' started.
+"0,0843053521091745",Camion.1052,Output@Aserradero11,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero11.Exited'.
+"0,0843053521091745",Camion.1052,Output@Aserradero11,20.OnExited,[End],Process 'Output@Aserradero11.OnExited' ended.
+"0,0843053521091745",Camion.1053,Output@Aserradero55,20.OnExited,[Begin],Process 'Output@Aserradero55.OnExited' started.
+"0,0843053521091745",Camion.1053,Output@Aserradero55,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero55.Exited'.
+"0,0843053521091745",Camion.1053,Output@Aserradero55,20.OnExited,[End],Process 'Output@Aserradero55.OnExited' ended.
+"0,0843053521091745",Camion.1054,Output@Aserradero4,20.OnExited,[Begin],Process 'Output@Aserradero4.OnExited' started.
+"0,0843053521091745",Camion.1054,Output@Aserradero4,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero4.Exited'.
+"0,0843053521091745",Camion.1054,Output@Aserradero4,20.OnExited,[End],Process 'Output@Aserradero4.OnExited' ended.
+"0,0843053521091745",Camion.1055,Output@Aserradero53,20.OnExited,[Begin],Process 'Output@Aserradero53.OnExited' started.
+"0,0843053521091745",Camion.1055,Output@Aserradero53,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero53.Exited'.
+"0,0843053521091745",Camion.1055,Output@Aserradero53,20.OnExited,[End],Process 'Output@Aserradero53.OnExited' ended.
+"0,0843053521091745",Camion.1056,Output@Aserradero61,20.OnExited,[Begin],Process 'Output@Aserradero61.OnExited' started.
+"0,0843053521091745",Camion.1056,Output@Aserradero61,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero61.Exited'.
+"0,0843053521091745",Camion.1056,Output@Aserradero61,20.OnExited,[End],Process 'Output@Aserradero61.OnExited' ended.
+"0,0843053521091745",Camion.1057,Output@Aserradero50,20.OnExited,[Begin],Process 'Output@Aserradero50.OnExited' started.
+"0,0843053521091745",Camion.1057,Output@Aserradero50,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero50.Exited'.
+"0,0843053521091745",Camion.1057,Output@Aserradero50,20.OnExited,[End],Process 'Output@Aserradero50.OnExited' ended.
+"0,0843053521091745",Camion.1058,Output@Aserradero60,20.OnExited,[Begin],Process 'Output@Aserradero60.OnExited' started.
+"0,0843053521091745",Camion.1058,Output@Aserradero60,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero60.Exited'.
+"0,0843053521091745",Camion.1058,Output@Aserradero60,20.OnExited,[End],Process 'Output@Aserradero60.OnExited' ended.
+"0,0843053521091745",Camion.1059,Output@Aserradero38,20.OnExited,[Begin],Process 'Output@Aserradero38.OnExited' started.
+"0,0843053521091745",Camion.1059,Output@Aserradero38,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero38.Exited'.
+"0,0843053521091745",Camion.1059,Output@Aserradero38,20.OnExited,[End],Process 'Output@Aserradero38.OnExited' ended.
+"0,0847222222222222",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,0847222222222222",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,0847222222222222",Model,Model,20.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,0847222222222222",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,0847222222222222",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,0847222222222222",Model,Model,20.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero87.TimerCreacion.Event'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero87.Monitor1.Event'.
+"0,0884444444444444",Aserradero87,Aserradero87,20.Process1,[Begin],Process 'Aserradero87.Process1' started.
+"0,0884444444444444",Aserradero87,Aserradero87,20.Process1,[Fire] Fire4,Firing event 'Aserradero87.CrearEntidad'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero87.EntityArrivals.Event'.
+"0,0884444444444444",Aserradero87,Aserradero87,20.Process1,[End],Process 'Aserradero87.Process1' ended.
+"0,0884444444444444",Aserradero87,Aserradero87,53.OnEntityArrival,[Begin],Process 'Aserradero87.OnEntityArrival' started.
+"0,0884444444444444",Aserradero87,Aserradero87,53.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0884444444444444",Aserradero87,Model,20.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0884444444444444",Aserradero87,Model,20.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero87.NodoLlegada' the value 'LlegadaAserradero87'.
+"0,0884444444444444",Aserradero87,Model,20.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0884444444444444",Aserradero87,Aserradero87,53.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0884444444444444",--,--,--,--,Object 'Camion.1060' created.
+"0,0884444444444444",Camion.1060,Aserradero87,20.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1060' initiating transfer from '[FreeSpace] Aserradero87' into station location 'Aserradero87.Processing'.
+"0,0884444444444444",Aserradero87,Aserradero87,53.OnEntityArrival,[End],Process 'Aserradero87.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1060,Aserradero87,36.OnEnteredProcessing,[Begin],Process 'Aserradero87.OnEnteredProcessing' started.
+"0,0884444444444444",Camion.1060,Aserradero87,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1060' ending transfer into station 'Aserradero87.Processing'.
+"0,0884444444444444",Camion.1060,Aserradero87,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0884444444444444",Camion.1060,Model,53.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0884444444444444",Camion.1060,Model,53.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1060.HomeNode' the value 'LlegadaAserradero87'.
+"0,0884444444444444",Camion.1060,Model,53.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1060.MyID' the value '87'.
+"0,0884444444444444",Camion.1060,Model,53.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[87]' the value '4'.
+"0,0884444444444444",Camion.1060,Model,53.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0884444444444444",Camion.1060,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0884444444444444",Camion.1060,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1060.peso' the value '27,2275635441175'."
+"0,0884444444444444",Camion.1060,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0884444444444444",Camion.1060,Model,53.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0884444444444444",Camion.1060,Aserradero87,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1060' initiating transfer from '[Station] Aserradero87.Processing' into station location 'Aserradero87.OutputBuffer'.
+"0,0884444444444444",Camion.1060,Aserradero87,20.OnEntityArrival,[End],Process 'Aserradero87.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1060,Aserradero87,53.OnEnteredOutputBuffer,[Begin],Process 'Aserradero87.OnEnteredOutputBuffer' started.
+"0,0884444444444444",Camion.1060,Aserradero87,53.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1060' ending transfer into station 'Aserradero87.OutputBuffer'.
+"0,0884444444444444",Camion.1060,Aserradero87,53.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1060' initiating transfer from '[Station] Aserradero87.OutputBuffer' into node 'Output@Aserradero87'.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,20.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero87.OnEnteredFromAssociatedObject' started.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,20.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero87.Entered'.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,20.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero87.RoutingOutLogic'.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero87.RoutingOutLogic' started.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1060' set to value 'Input@BrightPesajeEntrada'.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,19.RoutingOutLogic,[End],Process 'Output@Aserradero87.RoutingOutLogic' ended.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,20.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1060' initiating transfer from '[Node] Output@Aserradero87' onto link 'Path441'.
+"0,0884444444444444",Camion.1060,Path441,19.OnEntered,[Begin],Process 'Path441.OnEntered' started.
+"0,0884444444444444",Camion.1060,Path441,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1060' ending transfer onto link 'Path441'.
+"0,0884444444444444",Camion.1060,Path441,19.OnEntered,[End],Process 'Path441.OnEntered' ended.
+"0,0884444444444444",Camion.1060,Aserradero87,36.OnEnteredProcessing,[End],Process 'Aserradero87.OnEnteredProcessing' ended.
+"0,0884444444444444",Camion.1060,Aserradero87,53.OnEnteredOutputBuffer,[End],Process 'Aserradero87.OnEnteredOutputBuffer' ended.
+"0,0884444444444444",Camion.1060,Output@Aserradero87,20.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero87.OnEnteredFromAssociatedObject' ended.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero97.TimerCreacion.Event'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero97.Monitor1.Event'.
+"0,0884444444444444",Aserradero97,Aserradero97,20.Process1,[Begin],Process 'Aserradero97.Process1' started.
+"0,0884444444444444",Aserradero97,Aserradero97,20.Process1,[Fire] Fire4,Firing event 'Aserradero97.CrearEntidad'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero97.EntityArrivals.Event'.
+"0,0884444444444444",Aserradero97,Aserradero97,20.Process1,[End],Process 'Aserradero97.Process1' ended.
+"0,0884444444444444",Aserradero97,Aserradero97,53.OnEntityArrival,[Begin],Process 'Aserradero97.OnEntityArrival' started.
+"0,0884444444444444",Aserradero97,Aserradero97,53.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0884444444444444",Aserradero97,Model,20.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0884444444444444",Aserradero97,Model,20.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero97.NodoLlegada' the value 'LlegadaAserradero97'.
+"0,0884444444444444",Aserradero97,Model,20.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0884444444444444",Aserradero97,Aserradero97,53.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0884444444444444",--,--,--,--,Object 'Camion.1061' created.
+"0,0884444444444444",Camion.1061,Aserradero97,20.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1061' initiating transfer from '[FreeSpace] Aserradero97' into station location 'Aserradero97.Processing'.
+"0,0884444444444444",Aserradero97,Aserradero97,53.OnEntityArrival,[End],Process 'Aserradero97.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1061,Aserradero97,36.OnEnteredProcessing,[Begin],Process 'Aserradero97.OnEnteredProcessing' started.
+"0,0884444444444444",Camion.1061,Aserradero97,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1061' ending transfer into station 'Aserradero97.Processing'.
+"0,0884444444444444",Camion.1061,Aserradero97,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0884444444444444",Camion.1061,Model,53.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0884444444444444",Camion.1061,Model,53.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1061.HomeNode' the value 'LlegadaAserradero97'.
+"0,0884444444444444",Camion.1061,Model,53.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1061.MyID' the value '97'.
+"0,0884444444444444",Camion.1061,Model,53.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[97]' the value '4'.
+"0,0884444444444444",Camion.1061,Model,53.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0884444444444444",Camion.1061,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0884444444444444",Camion.1061,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1061.peso' the value '28,362018870682'."
+"0,0884444444444444",Camion.1061,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0884444444444444",Camion.1061,Model,53.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0884444444444444",Camion.1061,Aserradero97,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1061' initiating transfer from '[Station] Aserradero97.Processing' into station location 'Aserradero97.OutputBuffer'.
+"0,0884444444444444",Camion.1061,Aserradero97,20.OnEntityArrival,[End],Process 'Aserradero97.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1061,Aserradero97,53.OnEnteredOutputBuffer,[Begin],Process 'Aserradero97.OnEnteredOutputBuffer' started.
+"0,0884444444444444",Camion.1061,Aserradero97,53.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1061' ending transfer into station 'Aserradero97.OutputBuffer'.
+"0,0884444444444444",Camion.1061,Aserradero97,53.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1061' initiating transfer from '[Station] Aserradero97.OutputBuffer' into node 'Output@Aserradero97'.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,20.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero97.OnEnteredFromAssociatedObject' started.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,20.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero97.Entered'.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,20.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero97.RoutingOutLogic'.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero97.RoutingOutLogic' started.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1061' set to value 'Input@BrightPesajeEntrada'.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,19.RoutingOutLogic,[End],Process 'Output@Aserradero97.RoutingOutLogic' ended.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,20.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1061' initiating transfer from '[Node] Output@Aserradero97' onto link 'Path444'.
+"0,0884444444444444",Camion.1061,Path444,19.OnEntered,[Begin],Process 'Path444.OnEntered' started.
+"0,0884444444444444",Camion.1061,Path444,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1061' ending transfer onto link 'Path444'.
+"0,0884444444444444",Camion.1061,Path444,19.OnEntered,[End],Process 'Path444.OnEntered' ended.
+"0,0884444444444444",Camion.1061,Aserradero97,36.OnEnteredProcessing,[End],Process 'Aserradero97.OnEnteredProcessing' ended.
+"0,0884444444444444",Camion.1061,Aserradero97,53.OnEnteredOutputBuffer,[End],Process 'Aserradero97.OnEnteredOutputBuffer' ended.
+"0,0884444444444444",Camion.1061,Output@Aserradero97,20.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero97.OnEnteredFromAssociatedObject' ended.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero33.TimerCreacion.Event'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero33.Monitor1.Event'.
+"0,0884444444444444",Aserradero33,Aserradero33,20.Process1,[Begin],Process 'Aserradero33.Process1' started.
+"0,0884444444444444",Aserradero33,Aserradero33,20.Process1,[Fire] Fire4,Firing event 'Aserradero33.CrearEntidad'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero33.EntityArrivals.Event'.
+"0,0884444444444444",Aserradero33,Aserradero33,20.Process1,[End],Process 'Aserradero33.Process1' ended.
+"0,0884444444444444",Aserradero33,Aserradero33,53.OnEntityArrival,[Begin],Process 'Aserradero33.OnEntityArrival' started.
+"0,0884444444444444",Aserradero33,Aserradero33,53.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0884444444444444",Aserradero33,Model,20.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0884444444444444",Aserradero33,Model,20.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero33.NodoLlegada' the value 'LlegadaAserradero33'.
+"0,0884444444444444",Aserradero33,Model,20.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0884444444444444",Aserradero33,Aserradero33,53.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0884444444444444",--,--,--,--,Object 'Camion.1062' created.
+"0,0884444444444444",Camion.1062,Aserradero33,20.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1062' initiating transfer from '[FreeSpace] Aserradero33' into station location 'Aserradero33.Processing'.
+"0,0884444444444444",Aserradero33,Aserradero33,53.OnEntityArrival,[End],Process 'Aserradero33.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1062,Aserradero33,36.OnEnteredProcessing,[Begin],Process 'Aserradero33.OnEnteredProcessing' started.
+"0,0884444444444444",Camion.1062,Aserradero33,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1062' ending transfer into station 'Aserradero33.Processing'.
+"0,0884444444444444",Camion.1062,Aserradero33,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0884444444444444",Camion.1062,Model,53.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0884444444444444",Camion.1062,Model,53.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1062.HomeNode' the value 'LlegadaAserradero33'.
+"0,0884444444444444",Camion.1062,Model,53.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1062.MyID' the value '33'.
+"0,0884444444444444",Camion.1062,Model,53.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[33]' the value '4'.
+"0,0884444444444444",Camion.1062,Model,53.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0884444444444444",Camion.1062,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0884444444444444",Camion.1062,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1062.peso' the value '31,1673758343422'."
+"0,0884444444444444",Camion.1062,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0884444444444444",Camion.1062,Model,53.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0884444444444444",Camion.1062,Aserradero33,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1062' initiating transfer from '[Station] Aserradero33.Processing' into station location 'Aserradero33.OutputBuffer'.
+"0,0884444444444444",Camion.1062,Aserradero33,20.OnEntityArrival,[End],Process 'Aserradero33.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1062,Aserradero33,53.OnEnteredOutputBuffer,[Begin],Process 'Aserradero33.OnEnteredOutputBuffer' started.
+"0,0884444444444444",Camion.1062,Aserradero33,53.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1062' ending transfer into station 'Aserradero33.OutputBuffer'.
+"0,0884444444444444",Camion.1062,Aserradero33,53.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1062' initiating transfer from '[Station] Aserradero33.OutputBuffer' into node 'Output@Aserradero33'.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,20.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero33.OnEnteredFromAssociatedObject' started.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,20.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero33.Entered'.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,20.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero33.RoutingOutLogic'.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero33.RoutingOutLogic' started.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1062' set to value 'Input@BrightPesajeEntrada'.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,19.RoutingOutLogic,[End],Process 'Output@Aserradero33.RoutingOutLogic' ended.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,20.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1062' initiating transfer from '[Node] Output@Aserradero33' onto link 'Path170'.
+"0,0884444444444444",Camion.1062,Path170,19.OnEntered,[Begin],Process 'Path170.OnEntered' started.
+"0,0884444444444444",Camion.1062,Path170,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1062' ending transfer onto link 'Path170'.
+"0,0884444444444444",Camion.1062,Path170,19.OnEntered,[End],Process 'Path170.OnEntered' ended.
+"0,0884444444444444",Camion.1062,Aserradero33,36.OnEnteredProcessing,[End],Process 'Aserradero33.OnEnteredProcessing' ended.
+"0,0884444444444444",Camion.1062,Aserradero33,53.OnEnteredOutputBuffer,[End],Process 'Aserradero33.OnEnteredOutputBuffer' ended.
+"0,0884444444444444",Camion.1062,Output@Aserradero33,20.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero33.OnEnteredFromAssociatedObject' ended.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero62.TimerCreacion.Event'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero62.Monitor1.Event'.
+"0,0884444444444444",Aserradero62,Aserradero62,20.Process1,[Begin],Process 'Aserradero62.Process1' started.
+"0,0884444444444444",Aserradero62,Aserradero62,20.Process1,[Fire] Fire4,Firing event 'Aserradero62.CrearEntidad'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero62.EntityArrivals.Event'.
+"0,0884444444444444",Aserradero62,Aserradero62,20.Process1,[End],Process 'Aserradero62.Process1' ended.
+"0,0884444444444444",Aserradero62,Aserradero62,53.OnEntityArrival,[Begin],Process 'Aserradero62.OnEntityArrival' started.
+"0,0884444444444444",Aserradero62,Aserradero62,53.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0884444444444444",Aserradero62,Model,20.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0884444444444444",Aserradero62,Model,20.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero62.NodoLlegada' the value 'LlegadaAserradero62'.
+"0,0884444444444444",Aserradero62,Model,20.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0884444444444444",Aserradero62,Aserradero62,53.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0884444444444444",--,--,--,--,Object 'Camion.1063' created.
+"0,0884444444444444",Camion.1063,Aserradero62,20.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1063' initiating transfer from '[FreeSpace] Aserradero62' into station location 'Aserradero62.Processing'.
+"0,0884444444444444",Aserradero62,Aserradero62,53.OnEntityArrival,[End],Process 'Aserradero62.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1063,Aserradero62,36.OnEnteredProcessing,[Begin],Process 'Aserradero62.OnEnteredProcessing' started.
+"0,0884444444444444",Camion.1063,Aserradero62,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1063' ending transfer into station 'Aserradero62.Processing'.
+"0,0884444444444444",Camion.1063,Aserradero62,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0884444444444444",Camion.1063,Model,53.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0884444444444444",Camion.1063,Model,53.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1063.HomeNode' the value 'LlegadaAserradero62'.
+"0,0884444444444444",Camion.1063,Model,53.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1063.MyID' the value '62'.
+"0,0884444444444444",Camion.1063,Model,53.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[62]' the value '4'.
+"0,0884444444444444",Camion.1063,Model,53.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0884444444444444",Camion.1063,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0884444444444444",Camion.1063,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1063.peso' the value '30,9665088894929'."
+"0,0884444444444444",Camion.1063,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0884444444444444",Camion.1063,Model,53.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0884444444444444",Camion.1063,Aserradero62,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1063' initiating transfer from '[Station] Aserradero62.Processing' into station location 'Aserradero62.OutputBuffer'.
+"0,0884444444444444",Camion.1063,Aserradero62,20.OnEntityArrival,[End],Process 'Aserradero62.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1063,Aserradero62,53.OnEnteredOutputBuffer,[Begin],Process 'Aserradero62.OnEnteredOutputBuffer' started.
+"0,0884444444444444",Camion.1063,Aserradero62,53.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1063' ending transfer into station 'Aserradero62.OutputBuffer'.
+"0,0884444444444444",Camion.1063,Aserradero62,53.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1063' initiating transfer from '[Station] Aserradero62.OutputBuffer' into node 'Output@Aserradero62'.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,20.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero62.OnEnteredFromAssociatedObject' started.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,20.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero62.Entered'.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,20.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero62.RoutingOutLogic'.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero62.RoutingOutLogic' started.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1063' set to value 'Input@BrightPesajeEntrada'.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,19.RoutingOutLogic,[End],Process 'Output@Aserradero62.RoutingOutLogic' ended.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,20.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1063' initiating transfer from '[Node] Output@Aserradero62' onto link 'Path410'.
+"0,0884444444444444",Camion.1063,Path410,19.OnEntered,[Begin],Process 'Path410.OnEntered' started.
+"0,0884444444444444",Camion.1063,Path410,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1063' ending transfer onto link 'Path410'.
+"0,0884444444444444",Camion.1063,Path410,19.OnEntered,[End],Process 'Path410.OnEntered' ended.
+"0,0884444444444444",Camion.1063,Aserradero62,36.OnEnteredProcessing,[End],Process 'Aserradero62.OnEnteredProcessing' ended.
+"0,0884444444444444",Camion.1063,Aserradero62,53.OnEnteredOutputBuffer,[End],Process 'Aserradero62.OnEnteredOutputBuffer' ended.
+"0,0884444444444444",Camion.1063,Output@Aserradero62,20.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero62.OnEnteredFromAssociatedObject' ended.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero34.TimerCreacion.Event'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero34.Monitor1.Event'.
+"0,0884444444444444",Aserradero34,Aserradero34,20.Process1,[Begin],Process 'Aserradero34.Process1' started.
+"0,0884444444444444",Aserradero34,Aserradero34,20.Process1,[Fire] Fire4,Firing event 'Aserradero34.CrearEntidad'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero34.EntityArrivals.Event'.
+"0,0884444444444444",Aserradero34,Aserradero34,20.Process1,[End],Process 'Aserradero34.Process1' ended.
+"0,0884444444444444",Aserradero34,Aserradero34,53.OnEntityArrival,[Begin],Process 'Aserradero34.OnEntityArrival' started.
+"0,0884444444444444",Aserradero34,Aserradero34,53.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0884444444444444",Aserradero34,Model,20.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0884444444444444",Aserradero34,Model,20.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero34.NodoLlegada' the value 'LlegadaAserradero34'.
+"0,0884444444444444",Aserradero34,Model,20.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0884444444444444",Aserradero34,Aserradero34,53.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0884444444444444",--,--,--,--,Object 'Camion.1064' created.
+"0,0884444444444444",Camion.1064,Aserradero34,20.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1064' initiating transfer from '[FreeSpace] Aserradero34' into station location 'Aserradero34.Processing'.
+"0,0884444444444444",Aserradero34,Aserradero34,53.OnEntityArrival,[End],Process 'Aserradero34.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1064,Aserradero34,36.OnEnteredProcessing,[Begin],Process 'Aserradero34.OnEnteredProcessing' started.
+"0,0884444444444444",Camion.1064,Aserradero34,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1064' ending transfer into station 'Aserradero34.Processing'.
+"0,0884444444444444",Camion.1064,Aserradero34,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0884444444444444",Camion.1064,Model,53.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0884444444444444",Camion.1064,Model,53.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1064.HomeNode' the value 'LlegadaAserradero34'.
+"0,0884444444444444",Camion.1064,Model,53.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1064.MyID' the value '34'.
+"0,0884444444444444",Camion.1064,Model,53.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[34]' the value '4'.
+"0,0884444444444444",Camion.1064,Model,53.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0884444444444444",Camion.1064,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0884444444444444",Camion.1064,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1064.peso' the value '28,6775113548797'."
+"0,0884444444444444",Camion.1064,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0884444444444444",Camion.1064,Model,53.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0884444444444444",Camion.1064,Aserradero34,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1064' initiating transfer from '[Station] Aserradero34.Processing' into station location 'Aserradero34.OutputBuffer'.
+"0,0884444444444444",Camion.1064,Aserradero34,20.OnEntityArrival,[End],Process 'Aserradero34.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1064,Aserradero34,53.OnEnteredOutputBuffer,[Begin],Process 'Aserradero34.OnEnteredOutputBuffer' started.
+"0,0884444444444444",Camion.1064,Aserradero34,53.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1064' ending transfer into station 'Aserradero34.OutputBuffer'.
+"0,0884444444444444",Camion.1064,Aserradero34,53.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1064' initiating transfer from '[Station] Aserradero34.OutputBuffer' into node 'Output@Aserradero34'.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,20.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero34.OnEnteredFromAssociatedObject' started.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,20.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero34.Entered'.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,20.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero34.RoutingOutLogic'.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero34.RoutingOutLogic' started.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1064' set to value 'Input@BrightPesajeEntrada'.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,19.RoutingOutLogic,[End],Process 'Output@Aserradero34.RoutingOutLogic' ended.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,20.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1064' initiating transfer from '[Node] Output@Aserradero34' onto link 'Path172'.
+"0,0884444444444444",Camion.1064,Path172,19.OnEntered,[Begin],Process 'Path172.OnEntered' started.
+"0,0884444444444444",Camion.1064,Path172,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1064' ending transfer onto link 'Path172'.
+"0,0884444444444444",Camion.1064,Path172,19.OnEntered,[End],Process 'Path172.OnEntered' ended.
+"0,0884444444444444",Camion.1064,Aserradero34,36.OnEnteredProcessing,[End],Process 'Aserradero34.OnEnteredProcessing' ended.
+"0,0884444444444444",Camion.1064,Aserradero34,53.OnEnteredOutputBuffer,[End],Process 'Aserradero34.OnEnteredOutputBuffer' ended.
+"0,0884444444444444",Camion.1064,Output@Aserradero34,20.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero34.OnEnteredFromAssociatedObject' ended.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero40.TimerCreacion.Event'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero40.Monitor1.Event'.
+"0,0884444444444444",Aserradero40,Aserradero40,20.Process1,[Begin],Process 'Aserradero40.Process1' started.
+"0,0884444444444444",Aserradero40,Aserradero40,20.Process1,[Fire] Fire4,Firing event 'Aserradero40.CrearEntidad'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero40.EntityArrivals.Event'.
+"0,0884444444444444",Aserradero40,Aserradero40,20.Process1,[End],Process 'Aserradero40.Process1' ended.
+"0,0884444444444444",Aserradero40,Aserradero40,53.OnEntityArrival,[Begin],Process 'Aserradero40.OnEntityArrival' started.
+"0,0884444444444444",Aserradero40,Aserradero40,53.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0884444444444444",Aserradero40,Model,20.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0884444444444444",Aserradero40,Model,20.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero40.NodoLlegada' the value 'LlegadaAserradero40'.
+"0,0884444444444444",Aserradero40,Model,20.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0884444444444444",Aserradero40,Aserradero40,53.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0884444444444444",--,--,--,--,Object 'Camion.1065' created.
+"0,0884444444444444",Camion.1065,Aserradero40,20.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1065' initiating transfer from '[FreeSpace] Aserradero40' into station location 'Aserradero40.Processing'.
+"0,0884444444444444",Aserradero40,Aserradero40,53.OnEntityArrival,[End],Process 'Aserradero40.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1065,Aserradero40,36.OnEnteredProcessing,[Begin],Process 'Aserradero40.OnEnteredProcessing' started.
+"0,0884444444444444",Camion.1065,Aserradero40,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1065' ending transfer into station 'Aserradero40.Processing'.
+"0,0884444444444444",Camion.1065,Aserradero40,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0884444444444444",Camion.1065,Model,53.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0884444444444444",Camion.1065,Model,53.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1065.HomeNode' the value 'LlegadaAserradero40'.
+"0,0884444444444444",Camion.1065,Model,53.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1065.MyID' the value '40'.
+"0,0884444444444444",Camion.1065,Model,53.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[40]' the value '4'.
+"0,0884444444444444",Camion.1065,Model,53.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0884444444444444",Camion.1065,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0884444444444444",Camion.1065,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1065.peso' the value '30,5863265363527'."
+"0,0884444444444444",Camion.1065,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0884444444444444",Camion.1065,Model,53.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0884444444444444",Camion.1065,Aserradero40,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1065' initiating transfer from '[Station] Aserradero40.Processing' into station location 'Aserradero40.OutputBuffer'.
+"0,0884444444444444",Camion.1065,Aserradero40,20.OnEntityArrival,[End],Process 'Aserradero40.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1065,Aserradero40,53.OnEnteredOutputBuffer,[Begin],Process 'Aserradero40.OnEnteredOutputBuffer' started.
+"0,0884444444444444",Camion.1065,Aserradero40,53.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1065' ending transfer into station 'Aserradero40.OutputBuffer'.
+"0,0884444444444444",Camion.1065,Aserradero40,53.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1065' initiating transfer from '[Station] Aserradero40.OutputBuffer' into node 'Output@Aserradero40'.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,20.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero40.OnEnteredFromAssociatedObject' started.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,20.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero40.Entered'.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,20.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero40.RoutingOutLogic'.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero40.RoutingOutLogic' started.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1065' set to value 'Input@BrightPesajeEntrada'.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,19.RoutingOutLogic,[End],Process 'Output@Aserradero40.RoutingOutLogic' ended.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,20.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1065' initiating transfer from '[Node] Output@Aserradero40' onto link 'Path184'.
+"0,0884444444444444",Camion.1065,Path184,19.OnEntered,[Begin],Process 'Path184.OnEntered' started.
+"0,0884444444444444",Camion.1065,Path184,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1065' ending transfer onto link 'Path184'.
+"0,0884444444444444",Camion.1065,Path184,19.OnEntered,[End],Process 'Path184.OnEntered' ended.
+"0,0884444444444444",Camion.1065,Aserradero40,36.OnEnteredProcessing,[End],Process 'Aserradero40.OnEnteredProcessing' ended.
+"0,0884444444444444",Camion.1065,Aserradero40,53.OnEnteredOutputBuffer,[End],Process 'Aserradero40.OnEnteredOutputBuffer' ended.
+"0,0884444444444444",Camion.1065,Output@Aserradero40,20.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero40.OnEnteredFromAssociatedObject' ended.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero67.TimerCreacion.Event'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero67.Monitor1.Event'.
+"0,0884444444444444",Aserradero67,Aserradero67,20.Process1,[Begin],Process 'Aserradero67.Process1' started.
+"0,0884444444444444",Aserradero67,Aserradero67,20.Process1,[Fire] Fire4,Firing event 'Aserradero67.CrearEntidad'.
+"0,0884444444444444",--,--,--,--,Firing event 'Aserradero67.EntityArrivals.Event'.
+"0,0884444444444444",Aserradero67,Aserradero67,20.Process1,[End],Process 'Aserradero67.Process1' ended.
+"0,0884444444444444",Aserradero67,Aserradero67,53.OnEntityArrival,[Begin],Process 'Aserradero67.OnEntityArrival' started.
+"0,0884444444444444",Aserradero67,Aserradero67,53.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0884444444444444",Aserradero67,Model,20.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0884444444444444",Aserradero67,Model,20.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero67.NodoLlegada' the value 'LlegadaAserradero67'.
+"0,0884444444444444",Aserradero67,Model,20.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0884444444444444",Aserradero67,Aserradero67,53.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0884444444444444",--,--,--,--,Object 'Camion.1066' created.
+"0,0884444444444444",Camion.1066,Aserradero67,20.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1066' initiating transfer from '[FreeSpace] Aserradero67' into station location 'Aserradero67.Processing'.
+"0,0884444444444444",Aserradero67,Aserradero67,53.OnEntityArrival,[End],Process 'Aserradero67.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1066,Aserradero67,36.OnEnteredProcessing,[Begin],Process 'Aserradero67.OnEnteredProcessing' started.
+"0,0884444444444444",Camion.1066,Aserradero67,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1066' ending transfer into station 'Aserradero67.Processing'.
+"0,0884444444444444",Camion.1066,Aserradero67,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0884444444444444",Camion.1066,Model,53.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0884444444444444",Camion.1066,Model,53.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1066.HomeNode' the value 'LlegadaAserradero67'.
+"0,0884444444444444",Camion.1066,Model,53.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1066.MyID' the value '67'.
+"0,0884444444444444",Camion.1066,Model,53.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[67]' the value '4'.
+"0,0884444444444444",Camion.1066,Model,53.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0884444444444444",Camion.1066,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0884444444444444",Camion.1066,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1066.peso' the value '28,1360909502805'."
+"0,0884444444444444",Camion.1066,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0884444444444444",Camion.1066,Model,53.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0884444444444444",Camion.1066,Aserradero67,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1066' initiating transfer from '[Station] Aserradero67.Processing' into station location 'Aserradero67.OutputBuffer'.
+"0,0884444444444444",Camion.1066,Aserradero67,20.OnEntityArrival,[End],Process 'Aserradero67.OnEntityArrival' ended.
+"0,0884444444444444",Camion.1066,Aserradero67,53.OnEnteredOutputBuffer,[Begin],Process 'Aserradero67.OnEnteredOutputBuffer' started.
+"0,0884444444444444",Camion.1066,Aserradero67,53.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1066' ending transfer into station 'Aserradero67.OutputBuffer'.
+"0,0884444444444444",Camion.1066,Aserradero67,53.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1066' initiating transfer from '[Station] Aserradero67.OutputBuffer' into node 'Output@Aserradero67'.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,20.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero67.OnEnteredFromAssociatedObject' started.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,20.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero67.Entered'.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,20.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,20.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero67.RoutingOutLogic'.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero67.RoutingOutLogic' started.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1066' set to value 'Input@BrightPesajeEntrada'.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,19.RoutingOutLogic,[End],Process 'Output@Aserradero67.RoutingOutLogic' ended.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,20.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1066' initiating transfer from '[Node] Output@Aserradero67' onto link 'Path336'.
+"0,0884444444444444",Camion.1066,Path336,19.OnEntered,[Begin],Process 'Path336.OnEntered' started.
+"0,0884444444444444",Camion.1066,Path336,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1066' ending transfer onto link 'Path336'.
+"0,0884444444444444",Camion.1066,Path336,19.OnEntered,[End],Process 'Path336.OnEntered' ended.
+"0,0884444444444444",Camion.1066,Aserradero67,36.OnEnteredProcessing,[End],Process 'Aserradero67.OnEnteredProcessing' ended.
+"0,0884444444444444",Camion.1066,Aserradero67,53.OnEnteredOutputBuffer,[End],Process 'Aserradero67.OnEnteredOutputBuffer' ended.
+"0,0884444444444444",Camion.1066,Output@Aserradero67,20.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero67.OnEnteredFromAssociatedObject' ended.
+"0,0888888888888889",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,0888888888888889",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,0888888888888889",Model,Model,20.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,0888888888888889",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,0888888888888889",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,0888888888888889",Model,Model,20.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,0891666666666667",Camion.1000,Path336,20.OnReachedEnd,[Begin],Process 'Path336.OnReachedEnd' started.
+"0,0891666666666667",Camion.1000,Path336,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1000' initiating transfer from '[EndOfLink] Path336' into node 'TransferNode40'.
+"0,0891666666666667",Camion.1000,TransferNode40,53.OnEntered,[Begin],Process 'TransferNode40.OnEntered' started.
+"0,0891666666666667",Camion.1000,TransferNode40,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode40.Entered'.
+"0,0891666666666667",Camion.1000,TransferNode40,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1000' initiating transfer from '[Node] TransferNode40' onto link 'Path50'.
+"0,0891666666666667",Camion.1000,Path50,36.OnEntered,[Begin],Process 'Path50.OnEntered' started.
+"0,0891666666666667",Camion.1000,Path50,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1000' ending transfer onto link 'Path50'.
+"0,0891666666666667",Camion.1000,Path50,36.OnEntered,[End],Process 'Path50.OnEntered' ended.
+"0,0891666666666667",Camion.1000,Path336,20.OnReachedEnd,[End],Process 'Path336.OnReachedEnd' ended.
+"0,0891666666666667",Camion.1000,TransferNode40,53.OnEntered,[End],Process 'TransferNode40.OnEntered' ended.
+"0,0891666666666667",Camion.1006,Path441,53.OnReachedEnd,[Begin],Process 'Path441.OnReachedEnd' started.
+"0,0891666666666667",Camion.1006,Path441,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1006' initiating transfer from '[EndOfLink] Path441' into node 'TransferNode42'.
+"0,0891666666666667",Camion.1006,TransferNode42,20.OnEntered,[Begin],Process 'TransferNode42.OnEntered' started.
+"0,0891666666666667",Camion.1006,TransferNode42,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode42.Entered'.
+"0,0891666666666667",Camion.1006,TransferNode42,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1006' initiating transfer from '[Node] TransferNode42' onto link 'Path47'.
+"0,0891666666666667",Camion.1006,Path47,36.OnEntered,[Begin],Process 'Path47.OnEntered' started.
+"0,0891666666666667",Camion.1006,Path47,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1006' ending transfer onto link 'Path47'.
+"0,0891666666666667",Camion.1006,Path47,36.OnEntered,[End],Process 'Path47.OnEntered' ended.
+"0,0891666666666667",Camion.1006,Path441,53.OnReachedEnd,[End],Process 'Path441.OnReachedEnd' ended.
+"0,0891666666666667",Camion.1006,TransferNode42,20.OnEntered,[End],Process 'TransferNode42.OnEntered' ended.
+"0,0891666666666667",Camion.1008,Path469,20.OnReachedEnd,[Begin],Process 'Path469.OnReachedEnd' started.
+"0,0891666666666667",Camion.1008,Path469,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1008' initiating transfer from '[EndOfLink] Path469' into node 'TransferNode63'.
+"0,0891666666666667",Camion.1008,TransferNode63,53.OnEntered,[Begin],Process 'TransferNode63.OnEntered' started.
+"0,0891666666666667",Camion.1008,TransferNode63,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode63.Entered'.
+"0,0891666666666667",Camion.1008,TransferNode63,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1008' initiating transfer from '[Node] TransferNode63' onto link 'Path4'.
+"0,0891666666666667",Camion.1008,Path4,36.OnEntered,[Begin],Process 'Path4.OnEntered' started.
+"0,0891666666666667",Camion.1008,Path4,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1008' ending transfer onto link 'Path4'.
+"0,0891666666666667",Camion.1008,Path4,36.OnEntered,[End],Process 'Path4.OnEntered' ended.
+"0,0891666666666667",Camion.1008,Path469,20.OnReachedEnd,[End],Process 'Path469.OnReachedEnd' ended.
+"0,0891666666666667",Camion.1008,TransferNode63,53.OnEntered,[End],Process 'TransferNode63.OnEntered' ended.
+"0,0902777777777778",Camion.1011,Path234,53.OnReachedEnd,[Begin],Process 'Path234.OnReachedEnd' started.
+"0,0902777777777778",Camion.1011,Path234,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1011' initiating transfer from '[EndOfLink] Path234' into node 'TransferNode1'.
+"0,0902777777777778",Camion.1011,TransferNode1,20.OnEntered,[Begin],Process 'TransferNode1.OnEntered' started.
+"0,0902777777777778",Camion.1011,TransferNode1,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode1.Entered'.
+"0,0902777777777778",Camion.1011,TransferNode1,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1011' initiating transfer from '[Node] TransferNode1' onto link 'Path37'.
+"0,0902777777777778",Camion.1011,Path37,36.OnEntered,[Begin],Process 'Path37.OnEntered' started.
+"0,0902777777777778",Camion.1011,Path37,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1011' ending transfer onto link 'Path37'.
+"0,0902777777777778",Camion.1011,Path37,36.OnEntered,[End],Process 'Path37.OnEntered' ended.
+"0,0902777777777778",Camion.1011,Path234,53.OnReachedEnd,[End],Process 'Path234.OnReachedEnd' ended.
+"0,0902777777777778",Camion.1011,TransferNode1,20.OnEntered,[End],Process 'TransferNode1.OnEntered' ended.
+"0,0930555555555555",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,0930555555555555",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,0930555555555555",Model,Model,20.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,0930555555555555",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,0930555555555555",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,0930555555555555",Model,Model,20.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,0944444444444444",Camion.1012,Path234,20.OnReachedEnd,[Begin],Process 'Path234.OnReachedEnd' started.
+"0,0944444444444444",Camion.1012,Path234,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1012' initiating transfer from '[EndOfLink] Path234' into node 'TransferNode1'.
+"0,0944444444444444",Camion.1012,TransferNode1,53.OnEntered,[Begin],Process 'TransferNode1.OnEntered' started.
+"0,0944444444444444",Camion.1012,TransferNode1,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode1.Entered'.
+"0,0944444444444444",Camion.1012,TransferNode1,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1012' initiating transfer from '[Node] TransferNode1' onto link 'Path37'.
+"0,0944444444444444",Camion.1012,Path37,36.OnEntered,[Begin],Process 'Path37.OnEntered' started.
+"0,0944444444444444",Camion.1012,Path37,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1012' ending transfer onto link 'Path37'.
+"0,0944444444444444",Camion.1012,Path37,36.OnEntered,[End],Process 'Path37.OnEntered' ended.
+"0,0944444444444444",Camion.1012,Path234,20.OnReachedEnd,[End],Process 'Path234.OnReachedEnd' ended.
+"0,0944444444444444",Camion.1012,TransferNode1,53.OnEntered,[End],Process 'TransferNode1.OnEntered' ended.
+"0,0972222222222222",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,0972222222222222",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,0972222222222222",Model,Model,53.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,0972222222222222",Model,Model,53.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,0972222222222222",Model,Model,53.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,0972222222222222",Model,Model,53.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero10.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero10.Monitor1.Event'.
+"0,0982407407407407",Aserradero10,Aserradero10,53.Process1,[Begin],Process 'Aserradero10.Process1' started.
+"0,0982407407407407",Aserradero10,Aserradero10,53.Process1,[Fire] Fire4,Firing event 'Aserradero10.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero10.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero10,Aserradero10,53.Process1,[End],Process 'Aserradero10.Process1' ended.
+"0,0982407407407407",Aserradero10,Aserradero10,20.OnEntityArrival,[Begin],Process 'Aserradero10.OnEntityArrival' started.
+"0,0982407407407407",Aserradero10,Aserradero10,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero10,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero10,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero10.NodoLlegada' the value 'LlegadaAserradero10'.
+"0,0982407407407407",Aserradero10,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero10,Aserradero10,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1067' created.
+"0,0982407407407407",Camion.1067,Aserradero10,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1067' initiating transfer from '[FreeSpace] Aserradero10' into station location 'Aserradero10.Processing'.
+"0,0982407407407407",Aserradero10,Aserradero10,20.OnEntityArrival,[End],Process 'Aserradero10.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1067,Aserradero10,36.OnEnteredProcessing,[Begin],Process 'Aserradero10.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1067,Aserradero10,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1067' ending transfer into station 'Aserradero10.Processing'.
+"0,0982407407407407",Camion.1067,Aserradero10,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1067,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1067,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1067.HomeNode' the value 'LlegadaAserradero10'.
+"0,0982407407407407",Camion.1067,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1067.MyID' the value '10'.
+"0,0982407407407407",Camion.1067,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[10]' the value '5'.
+"0,0982407407407407",Camion.1067,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1067,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1067,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1067.peso' the value '29,5445687431814'."
+"0,0982407407407407",Camion.1067,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1067,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1067,Aserradero10,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1067' initiating transfer from '[Station] Aserradero10.Processing' into station location 'Aserradero10.OutputBuffer'.
+"0,0982407407407407",Camion.1067,Aserradero10,53.OnEntityArrival,[End],Process 'Aserradero10.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1067,Aserradero10,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero10.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1067,Aserradero10,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1067' ending transfer into station 'Aserradero10.OutputBuffer'.
+"0,0982407407407407",Camion.1067,Aserradero10,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1067' initiating transfer from '[Station] Aserradero10.OutputBuffer' into node 'Output@Aserradero10'.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero10.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero10.Entered'.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero10.RoutingOutLogic'.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero10.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1067' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,19.RoutingOutLogic,[End],Process 'Output@Aserradero10.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1067' initiating transfer from '[Node] Output@Aserradero10' onto link 'Path124'.
+"0,0982407407407407",Camion.1067,Path124,19.OnEntered,[Begin],Process 'Path124.OnEntered' started.
+"0,0982407407407407",Camion.1067,Path124,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1067' ending transfer onto link 'Path124'.
+"0,0982407407407407",Camion.1067,Path124,19.OnEntered,[End],Process 'Path124.OnEntered' ended.
+"0,0982407407407407",Camion.1067,Aserradero10,36.OnEnteredProcessing,[End],Process 'Aserradero10.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1067,Aserradero10,20.OnEnteredOutputBuffer,[End],Process 'Aserradero10.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1067,Output@Aserradero10,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero10.OnEnteredFromAssociatedObject' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero11.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero11.Monitor1.Event'.
+"0,0982407407407407",Aserradero11,Aserradero11,53.Process1,[Begin],Process 'Aserradero11.Process1' started.
+"0,0982407407407407",Aserradero11,Aserradero11,53.Process1,[Fire] Fire4,Firing event 'Aserradero11.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero11.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero11,Aserradero11,53.Process1,[End],Process 'Aserradero11.Process1' ended.
+"0,0982407407407407",Aserradero11,Aserradero11,20.OnEntityArrival,[Begin],Process 'Aserradero11.OnEntityArrival' started.
+"0,0982407407407407",Aserradero11,Aserradero11,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero11,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero11,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero11.NodoLlegada' the value 'LlegadaAserradero11'.
+"0,0982407407407407",Aserradero11,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero11,Aserradero11,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1068' created.
+"0,0982407407407407",Camion.1068,Aserradero11,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1068' initiating transfer from '[FreeSpace] Aserradero11' into station location 'Aserradero11.Processing'.
+"0,0982407407407407",Aserradero11,Aserradero11,20.OnEntityArrival,[End],Process 'Aserradero11.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1068,Aserradero11,36.OnEnteredProcessing,[Begin],Process 'Aserradero11.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1068,Aserradero11,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1068' ending transfer into station 'Aserradero11.Processing'.
+"0,0982407407407407",Camion.1068,Aserradero11,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1068,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1068,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1068.HomeNode' the value 'LlegadaAserradero11'.
+"0,0982407407407407",Camion.1068,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1068.MyID' the value '11'.
+"0,0982407407407407",Camion.1068,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[11]' the value '5'.
+"0,0982407407407407",Camion.1068,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1068,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1068,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1068.peso' the value '27,0159574206134'."
+"0,0982407407407407",Camion.1068,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1068,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1068,Aserradero11,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1068' initiating transfer from '[Station] Aserradero11.Processing' into station location 'Aserradero11.OutputBuffer'.
+"0,0982407407407407",Camion.1068,Aserradero11,53.OnEntityArrival,[End],Process 'Aserradero11.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1068,Aserradero11,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero11.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1068,Aserradero11,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1068' ending transfer into station 'Aserradero11.OutputBuffer'.
+"0,0982407407407407",Camion.1068,Aserradero11,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1068' initiating transfer from '[Station] Aserradero11.OutputBuffer' into node 'Output@Aserradero11'.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero11.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero11.Entered'.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero11.RoutingOutLogic'.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero11.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1068' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,19.RoutingOutLogic,[End],Process 'Output@Aserradero11.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1068' initiating transfer from '[Node] Output@Aserradero11' onto link 'Path126'.
+"0,0982407407407407",Camion.1068,Path126,19.OnEntered,[Begin],Process 'Path126.OnEntered' started.
+"0,0982407407407407",Camion.1068,Path126,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1068' ending transfer onto link 'Path126'.
+"0,0982407407407407",Camion.1068,Path126,19.OnEntered,[End],Process 'Path126.OnEntered' ended.
+"0,0982407407407407",Camion.1068,Aserradero11,36.OnEnteredProcessing,[End],Process 'Aserradero11.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1068,Aserradero11,20.OnEnteredOutputBuffer,[End],Process 'Aserradero11.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1068,Output@Aserradero11,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero11.OnEnteredFromAssociatedObject' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero55.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero55.Monitor1.Event'.
+"0,0982407407407407",Aserradero55,Aserradero55,53.Process1,[Begin],Process 'Aserradero55.Process1' started.
+"0,0982407407407407",Aserradero55,Aserradero55,53.Process1,[Fire] Fire4,Firing event 'Aserradero55.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero55.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero55,Aserradero55,53.Process1,[End],Process 'Aserradero55.Process1' ended.
+"0,0982407407407407",Aserradero55,Aserradero55,20.OnEntityArrival,[Begin],Process 'Aserradero55.OnEntityArrival' started.
+"0,0982407407407407",Aserradero55,Aserradero55,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero55,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero55,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero55.NodoLlegada' the value 'LlegadaAserradero55'.
+"0,0982407407407407",Aserradero55,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero55,Aserradero55,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1069' created.
+"0,0982407407407407",Camion.1069,Aserradero55,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1069' initiating transfer from '[FreeSpace] Aserradero55' into station location 'Aserradero55.Processing'.
+"0,0982407407407407",Aserradero55,Aserradero55,20.OnEntityArrival,[End],Process 'Aserradero55.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1069,Aserradero55,36.OnEnteredProcessing,[Begin],Process 'Aserradero55.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1069,Aserradero55,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1069' ending transfer into station 'Aserradero55.Processing'.
+"0,0982407407407407",Camion.1069,Aserradero55,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1069,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1069,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1069.HomeNode' the value 'LlegadaAserradero55'.
+"0,0982407407407407",Camion.1069,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1069.MyID' the value '55'.
+"0,0982407407407407",Camion.1069,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[55]' the value '5'.
+"0,0982407407407407",Camion.1069,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1069,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1069,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1069.peso' the value '30,201326369621'."
+"0,0982407407407407",Camion.1069,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1069,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1069,Aserradero55,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1069' initiating transfer from '[Station] Aserradero55.Processing' into station location 'Aserradero55.OutputBuffer'.
+"0,0982407407407407",Camion.1069,Aserradero55,53.OnEntityArrival,[End],Process 'Aserradero55.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1069,Aserradero55,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero55.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1069,Aserradero55,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1069' ending transfer into station 'Aserradero55.OutputBuffer'.
+"0,0982407407407407",Camion.1069,Aserradero55,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1069' initiating transfer from '[Station] Aserradero55.OutputBuffer' into node 'Output@Aserradero55'.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero55.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero55.Entered'.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero55.RoutingOutLogic'.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero55.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1069' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,19.RoutingOutLogic,[End],Process 'Output@Aserradero55.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1069' initiating transfer from '[Node] Output@Aserradero55' onto link 'Path311'.
+"0,0982407407407407",Camion.1069,Path311,19.OnEntered,[Begin],Process 'Path311.OnEntered' started.
+"0,0982407407407407",Camion.1069,Path311,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1069' ending transfer onto link 'Path311'.
+"0,0982407407407407",Camion.1069,Path311,19.OnEntered,[End],Process 'Path311.OnEntered' ended.
+"0,0982407407407407",Camion.1069,Aserradero55,36.OnEnteredProcessing,[End],Process 'Aserradero55.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1069,Aserradero55,20.OnEnteredOutputBuffer,[End],Process 'Aserradero55.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1069,Output@Aserradero55,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero55.OnEnteredFromAssociatedObject' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero4.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero4.Monitor1.Event'.
+"0,0982407407407407",Aserradero4,Aserradero4,53.Process1,[Begin],Process 'Aserradero4.Process1' started.
+"0,0982407407407407",Aserradero4,Aserradero4,53.Process1,[Fire] Fire4,Firing event 'Aserradero4.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero4.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero4,Aserradero4,53.Process1,[End],Process 'Aserradero4.Process1' ended.
+"0,0982407407407407",Aserradero4,Aserradero4,20.OnEntityArrival,[Begin],Process 'Aserradero4.OnEntityArrival' started.
+"0,0982407407407407",Aserradero4,Aserradero4,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero4,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero4,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero4.NodoLlegada' the value 'LlegadaAserradero4'.
+"0,0982407407407407",Aserradero4,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero4,Aserradero4,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1070' created.
+"0,0982407407407407",Camion.1070,Aserradero4,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1070' initiating transfer from '[FreeSpace] Aserradero4' into station location 'Aserradero4.Processing'.
+"0,0982407407407407",Aserradero4,Aserradero4,20.OnEntityArrival,[End],Process 'Aserradero4.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1070,Aserradero4,36.OnEnteredProcessing,[Begin],Process 'Aserradero4.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1070,Aserradero4,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1070' ending transfer into station 'Aserradero4.Processing'.
+"0,0982407407407407",Camion.1070,Aserradero4,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1070,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1070,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1070.HomeNode' the value 'LlegadaAserradero4'.
+"0,0982407407407407",Camion.1070,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1070.MyID' the value '4'.
+"0,0982407407407407",Camion.1070,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[4]' the value '5'.
+"0,0982407407407407",Camion.1070,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1070,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1070,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1070.peso' the value '29,4334688003616'."
+"0,0982407407407407",Camion.1070,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1070,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1070,Aserradero4,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1070' initiating transfer from '[Station] Aserradero4.Processing' into station location 'Aserradero4.OutputBuffer'.
+"0,0982407407407407",Camion.1070,Aserradero4,53.OnEntityArrival,[End],Process 'Aserradero4.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1070,Aserradero4,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero4.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1070,Aserradero4,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1070' ending transfer into station 'Aserradero4.OutputBuffer'.
+"0,0982407407407407",Camion.1070,Aserradero4,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1070' initiating transfer from '[Station] Aserradero4.OutputBuffer' into node 'Output@Aserradero4'.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero4.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero4.Entered'.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero4.RoutingOutLogic'.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero4.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1070' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,19.RoutingOutLogic,[End],Process 'Output@Aserradero4.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1070' initiating transfer from '[Node] Output@Aserradero4' onto link 'Path112'.
+"0,0982407407407407",Camion.1070,Path112,19.OnEntered,[Begin],Process 'Path112.OnEntered' started.
+"0,0982407407407407",Camion.1070,Path112,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1070' ending transfer onto link 'Path112'.
+"0,0982407407407407",Camion.1070,Path112,19.OnEntered,[End],Process 'Path112.OnEntered' ended.
+"0,0982407407407407",Camion.1070,Aserradero4,36.OnEnteredProcessing,[End],Process 'Aserradero4.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1070,Aserradero4,20.OnEnteredOutputBuffer,[End],Process 'Aserradero4.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1070,Output@Aserradero4,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero4.OnEnteredFromAssociatedObject' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero53.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero53.Monitor1.Event'.
+"0,0982407407407407",Aserradero53,Aserradero53,53.Process1,[Begin],Process 'Aserradero53.Process1' started.
+"0,0982407407407407",Aserradero53,Aserradero53,53.Process1,[Fire] Fire4,Firing event 'Aserradero53.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero53.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero53,Aserradero53,53.Process1,[End],Process 'Aserradero53.Process1' ended.
+"0,0982407407407407",Aserradero53,Aserradero53,20.OnEntityArrival,[Begin],Process 'Aserradero53.OnEntityArrival' started.
+"0,0982407407407407",Aserradero53,Aserradero53,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero53,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero53,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero53.NodoLlegada' the value 'LlegadaAserradero53'.
+"0,0982407407407407",Aserradero53,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero53,Aserradero53,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1071' created.
+"0,0982407407407407",Camion.1071,Aserradero53,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1071' initiating transfer from '[FreeSpace] Aserradero53' into station location 'Aserradero53.Processing'.
+"0,0982407407407407",Aserradero53,Aserradero53,20.OnEntityArrival,[End],Process 'Aserradero53.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1071,Aserradero53,36.OnEnteredProcessing,[Begin],Process 'Aserradero53.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1071,Aserradero53,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1071' ending transfer into station 'Aserradero53.Processing'.
+"0,0982407407407407",Camion.1071,Aserradero53,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1071,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1071,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1071.HomeNode' the value 'LlegadaAserradero53'.
+"0,0982407407407407",Camion.1071,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1071.MyID' the value '53'.
+"0,0982407407407407",Camion.1071,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[53]' the value '5'.
+"0,0982407407407407",Camion.1071,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1071,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1071,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1071.peso' the value '29,214540920292'."
+"0,0982407407407407",Camion.1071,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1071,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1071,Aserradero53,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1071' initiating transfer from '[Station] Aserradero53.Processing' into station location 'Aserradero53.OutputBuffer'.
+"0,0982407407407407",Camion.1071,Aserradero53,53.OnEntityArrival,[End],Process 'Aserradero53.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1071,Aserradero53,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero53.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1071,Aserradero53,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1071' ending transfer into station 'Aserradero53.OutputBuffer'.
+"0,0982407407407407",Camion.1071,Aserradero53,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1071' initiating transfer from '[Station] Aserradero53.OutputBuffer' into node 'Output@Aserradero53'.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero53.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero53.Entered'.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero53.RoutingOutLogic'.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero53.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1071' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,19.RoutingOutLogic,[End],Process 'Output@Aserradero53.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1071' initiating transfer from '[Node] Output@Aserradero53' onto link 'Path302'.
+"0,0982407407407407",Camion.1071,Path302,19.OnEntered,[Begin],Process 'Path302.OnEntered' started.
+"0,0982407407407407",Camion.1071,Path302,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1071' ending transfer onto link 'Path302'.
+"0,0982407407407407",Camion.1071,Path302,19.OnEntered,[End],Process 'Path302.OnEntered' ended.
+"0,0982407407407407",Camion.1071,Aserradero53,36.OnEnteredProcessing,[End],Process 'Aserradero53.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1071,Aserradero53,20.OnEnteredOutputBuffer,[End],Process 'Aserradero53.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1071,Output@Aserradero53,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero53.OnEnteredFromAssociatedObject' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero61.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero61.Monitor1.Event'.
+"0,0982407407407407",Aserradero61,Aserradero61,53.Process1,[Begin],Process 'Aserradero61.Process1' started.
+"0,0982407407407407",Aserradero61,Aserradero61,53.Process1,[Fire] Fire4,Firing event 'Aserradero61.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero61.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero61,Aserradero61,53.Process1,[End],Process 'Aserradero61.Process1' ended.
+"0,0982407407407407",Aserradero61,Aserradero61,20.OnEntityArrival,[Begin],Process 'Aserradero61.OnEntityArrival' started.
+"0,0982407407407407",Aserradero61,Aserradero61,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero61,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero61,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero61.NodoLlegada' the value 'LlegadaAserradero61'.
+"0,0982407407407407",Aserradero61,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero61,Aserradero61,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1072' created.
+"0,0982407407407407",Camion.1072,Aserradero61,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1072' initiating transfer from '[FreeSpace] Aserradero61' into station location 'Aserradero61.Processing'.
+"0,0982407407407407",Aserradero61,Aserradero61,20.OnEntityArrival,[End],Process 'Aserradero61.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1072,Aserradero61,36.OnEnteredProcessing,[Begin],Process 'Aserradero61.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1072,Aserradero61,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1072' ending transfer into station 'Aserradero61.Processing'.
+"0,0982407407407407",Camion.1072,Aserradero61,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1072,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1072,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1072.HomeNode' the value 'LlegadaAserradero61'.
+"0,0982407407407407",Camion.1072,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1072.MyID' the value '61'.
+"0,0982407407407407",Camion.1072,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[61]' the value '5'.
+"0,0982407407407407",Camion.1072,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1072,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1072,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1072.peso' the value '34,0504040513366'."
+"0,0982407407407407",Camion.1072,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1072,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1072,Aserradero61,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1072' initiating transfer from '[Station] Aserradero61.Processing' into station location 'Aserradero61.OutputBuffer'.
+"0,0982407407407407",Camion.1072,Aserradero61,53.OnEntityArrival,[End],Process 'Aserradero61.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1072,Aserradero61,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero61.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1072,Aserradero61,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1072' ending transfer into station 'Aserradero61.OutputBuffer'.
+"0,0982407407407407",Camion.1072,Aserradero61,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1072' initiating transfer from '[Station] Aserradero61.OutputBuffer' into node 'Output@Aserradero61'.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero61.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero61.Entered'.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero61.RoutingOutLogic'.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero61.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1072' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,19.RoutingOutLogic,[End],Process 'Output@Aserradero61.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1072' initiating transfer from '[Node] Output@Aserradero61' onto link 'Path407'.
+"0,0982407407407407",Camion.1072,Path407,19.OnEntered,[Begin],Process 'Path407.OnEntered' started.
+"0,0982407407407407",Camion.1072,Path407,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1072' ending transfer onto link 'Path407'.
+"0,0982407407407407",Camion.1072,Path407,19.OnEntered,[End],Process 'Path407.OnEntered' ended.
+"0,0982407407407407",Camion.1072,Aserradero61,36.OnEnteredProcessing,[End],Process 'Aserradero61.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1072,Aserradero61,20.OnEnteredOutputBuffer,[End],Process 'Aserradero61.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1072,Output@Aserradero61,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero61.OnEnteredFromAssociatedObject' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero50.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero50.Monitor1.Event'.
+"0,0982407407407407",Aserradero50,Aserradero50,53.Process1,[Begin],Process 'Aserradero50.Process1' started.
+"0,0982407407407407",Aserradero50,Aserradero50,53.Process1,[Fire] Fire4,Firing event 'Aserradero50.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero50.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero50,Aserradero50,53.Process1,[End],Process 'Aserradero50.Process1' ended.
+"0,0982407407407407",Aserradero50,Aserradero50,20.OnEntityArrival,[Begin],Process 'Aserradero50.OnEntityArrival' started.
+"0,0982407407407407",Aserradero50,Aserradero50,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero50,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero50,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero50.NodoLlegada' the value 'LlegadaAserradero50'.
+"0,0982407407407407",Aserradero50,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero50,Aserradero50,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1073' created.
+"0,0982407407407407",Camion.1073,Aserradero50,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1073' initiating transfer from '[FreeSpace] Aserradero50' into station location 'Aserradero50.Processing'.
+"0,0982407407407407",Aserradero50,Aserradero50,20.OnEntityArrival,[End],Process 'Aserradero50.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1073,Aserradero50,36.OnEnteredProcessing,[Begin],Process 'Aserradero50.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1073,Aserradero50,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1073' ending transfer into station 'Aserradero50.Processing'.
+"0,0982407407407407",Camion.1073,Aserradero50,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1073,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1073,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1073.HomeNode' the value 'LlegadaAserradero50'.
+"0,0982407407407407",Camion.1073,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1073.MyID' the value '50'.
+"0,0982407407407407",Camion.1073,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[50]' the value '5'.
+"0,0982407407407407",Camion.1073,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1073,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1073,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1073.peso' the value '26,1718957919025'."
+"0,0982407407407407",Camion.1073,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1073,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1073,Aserradero50,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1073' initiating transfer from '[Station] Aserradero50.Processing' into station location 'Aserradero50.OutputBuffer'.
+"0,0982407407407407",Camion.1073,Aserradero50,53.OnEntityArrival,[End],Process 'Aserradero50.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1073,Aserradero50,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero50.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1073,Aserradero50,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1073' ending transfer into station 'Aserradero50.OutputBuffer'.
+"0,0982407407407407",Camion.1073,Aserradero50,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1073' initiating transfer from '[Station] Aserradero50.OutputBuffer' into node 'Output@Aserradero50'.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero50.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero50.Entered'.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero50.RoutingOutLogic'.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero50.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1073' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,19.RoutingOutLogic,[End],Process 'Output@Aserradero50.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1073' initiating transfer from '[Node] Output@Aserradero50' onto link 'Path198'.
+"0,0982407407407407",Camion.1073,Path198,19.OnEntered,[Begin],Process 'Path198.OnEntered' started.
+"0,0982407407407407",Camion.1073,Path198,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1073' ending transfer onto link 'Path198'.
+"0,0982407407407407",Camion.1073,Path198,19.OnEntered,[End],Process 'Path198.OnEntered' ended.
+"0,0982407407407407",Camion.1073,Aserradero50,36.OnEnteredProcessing,[End],Process 'Aserradero50.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1073,Aserradero50,20.OnEnteredOutputBuffer,[End],Process 'Aserradero50.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1073,Output@Aserradero50,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero50.OnEnteredFromAssociatedObject' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero60.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero60.Monitor1.Event'.
+"0,0982407407407407",Aserradero60,Aserradero60,53.Process1,[Begin],Process 'Aserradero60.Process1' started.
+"0,0982407407407407",Aserradero60,Aserradero60,53.Process1,[Fire] Fire4,Firing event 'Aserradero60.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero60.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero60,Aserradero60,53.Process1,[End],Process 'Aserradero60.Process1' ended.
+"0,0982407407407407",Aserradero60,Aserradero60,20.OnEntityArrival,[Begin],Process 'Aserradero60.OnEntityArrival' started.
+"0,0982407407407407",Aserradero60,Aserradero60,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero60,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero60,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero60.NodoLlegada' the value 'LlegadaAserradero60'.
+"0,0982407407407407",Aserradero60,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero60,Aserradero60,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1074' created.
+"0,0982407407407407",Camion.1074,Aserradero60,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1074' initiating transfer from '[FreeSpace] Aserradero60' into station location 'Aserradero60.Processing'.
+"0,0982407407407407",Aserradero60,Aserradero60,20.OnEntityArrival,[End],Process 'Aserradero60.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1074,Aserradero60,36.OnEnteredProcessing,[Begin],Process 'Aserradero60.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1074,Aserradero60,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1074' ending transfer into station 'Aserradero60.Processing'.
+"0,0982407407407407",Camion.1074,Aserradero60,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1074,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1074,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1074.HomeNode' the value 'LlegadaAserradero60'.
+"0,0982407407407407",Camion.1074,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1074.MyID' the value '60'.
+"0,0982407407407407",Camion.1074,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[60]' the value '5'.
+"0,0982407407407407",Camion.1074,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1074,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1074,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1074.peso' the value '32,7462581643045'."
+"0,0982407407407407",Camion.1074,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1074,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1074,Aserradero60,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1074' initiating transfer from '[Station] Aserradero60.Processing' into station location 'Aserradero60.OutputBuffer'.
+"0,0982407407407407",Camion.1074,Aserradero60,53.OnEntityArrival,[End],Process 'Aserradero60.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1074,Aserradero60,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero60.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1074,Aserradero60,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1074' ending transfer into station 'Aserradero60.OutputBuffer'.
+"0,0982407407407407",Camion.1074,Aserradero60,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1074' initiating transfer from '[Station] Aserradero60.OutputBuffer' into node 'Output@Aserradero60'.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero60.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero60.Entered'.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero60.RoutingOutLogic'.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero60.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1074' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,19.RoutingOutLogic,[End],Process 'Output@Aserradero60.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1074' initiating transfer from '[Node] Output@Aserradero60' onto link 'Path403'.
+"0,0982407407407407",Camion.1074,Path403,19.OnEntered,[Begin],Process 'Path403.OnEntered' started.
+"0,0982407407407407",Camion.1074,Path403,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1074' ending transfer onto link 'Path403'.
+"0,0982407407407407",Camion.1074,Path403,19.OnEntered,[End],Process 'Path403.OnEntered' ended.
+"0,0982407407407407",Camion.1074,Aserradero60,36.OnEnteredProcessing,[End],Process 'Aserradero60.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1074,Aserradero60,20.OnEnteredOutputBuffer,[End],Process 'Aserradero60.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1074,Output@Aserradero60,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero60.OnEnteredFromAssociatedObject' ended.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero38.TimerCreacion.Event'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero38.Monitor1.Event'.
+"0,0982407407407407",Aserradero38,Aserradero38,53.Process1,[Begin],Process 'Aserradero38.Process1' started.
+"0,0982407407407407",Aserradero38,Aserradero38,53.Process1,[Fire] Fire4,Firing event 'Aserradero38.CrearEntidad'.
+"0,0982407407407407",--,--,--,--,Firing event 'Aserradero38.EntityArrivals.Event'.
+"0,0982407407407407",Aserradero38,Aserradero38,53.Process1,[End],Process 'Aserradero38.Process1' ended.
+"0,0982407407407407",Aserradero38,Aserradero38,20.OnEntityArrival,[Begin],Process 'Aserradero38.OnEntityArrival' started.
+"0,0982407407407407",Aserradero38,Aserradero38,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,0982407407407407",Aserradero38,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,0982407407407407",Aserradero38,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero38.NodoLlegada' the value 'LlegadaAserradero38'.
+"0,0982407407407407",Aserradero38,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,0982407407407407",Aserradero38,Aserradero38,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,0982407407407407",--,--,--,--,Object 'Camion.1075' created.
+"0,0982407407407407",Camion.1075,Aserradero38,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1075' initiating transfer from '[FreeSpace] Aserradero38' into station location 'Aserradero38.Processing'.
+"0,0982407407407407",Aserradero38,Aserradero38,20.OnEntityArrival,[End],Process 'Aserradero38.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1075,Aserradero38,36.OnEnteredProcessing,[Begin],Process 'Aserradero38.OnEnteredProcessing' started.
+"0,0982407407407407",Camion.1075,Aserradero38,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1075' ending transfer into station 'Aserradero38.Processing'.
+"0,0982407407407407",Camion.1075,Aserradero38,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,0982407407407407",Camion.1075,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,0982407407407407",Camion.1075,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1075.HomeNode' the value 'LlegadaAserradero38'.
+"0,0982407407407407",Camion.1075,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1075.MyID' the value '38'.
+"0,0982407407407407",Camion.1075,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[38]' the value '5'.
+"0,0982407407407407",Camion.1075,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,0982407407407407",Camion.1075,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,0982407407407407",Camion.1075,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1075.peso' the value '30,7421070003136'."
+"0,0982407407407407",Camion.1075,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,0982407407407407",Camion.1075,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,0982407407407407",Camion.1075,Aserradero38,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1075' initiating transfer from '[Station] Aserradero38.Processing' into station location 'Aserradero38.OutputBuffer'.
+"0,0982407407407407",Camion.1075,Aserradero38,53.OnEntityArrival,[End],Process 'Aserradero38.OnEntityArrival' ended.
+"0,0982407407407407",Camion.1075,Aserradero38,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero38.OnEnteredOutputBuffer' started.
+"0,0982407407407407",Camion.1075,Aserradero38,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1075' ending transfer into station 'Aserradero38.OutputBuffer'.
+"0,0982407407407407",Camion.1075,Aserradero38,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1075' initiating transfer from '[Station] Aserradero38.OutputBuffer' into node 'Output@Aserradero38'.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero38.OnEnteredFromAssociatedObject' started.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero38.Entered'.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero38.RoutingOutLogic'.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero38.RoutingOutLogic' started.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1075' set to value 'Input@BrightPesajeEntrada'.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,19.RoutingOutLogic,[End],Process 'Output@Aserradero38.RoutingOutLogic' ended.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1075' initiating transfer from '[Node] Output@Aserradero38' onto link 'Path180'.
+"0,0982407407407407",Camion.1075,Path180,19.OnEntered,[Begin],Process 'Path180.OnEntered' started.
+"0,0982407407407407",Camion.1075,Path180,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1075' ending transfer onto link 'Path180'.
+"0,0982407407407407",Camion.1075,Path180,19.OnEntered,[End],Process 'Path180.OnEntered' ended.
+"0,0982407407407407",Camion.1075,Aserradero38,36.OnEnteredProcessing,[End],Process 'Aserradero38.OnEnteredProcessing' ended.
+"0,0982407407407407",Camion.1075,Aserradero38,20.OnEnteredOutputBuffer,[End],Process 'Aserradero38.OnEnteredOutputBuffer' ended.
+"0,0982407407407407",Camion.1075,Output@Aserradero38,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero38.OnEnteredFromAssociatedObject' ended.
+"0,0986111111111111",Camion.1013,Path234,53.OnReachedEnd,[Begin],Process 'Path234.OnReachedEnd' started.
+"0,0986111111111111",Camion.1013,Path234,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1013' initiating transfer from '[EndOfLink] Path234' into node 'TransferNode1'.
+"0,0986111111111111",Camion.1013,TransferNode1,20.OnEntered,[Begin],Process 'TransferNode1.OnEntered' started.
+"0,0986111111111111",Camion.1013,TransferNode1,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode1.Entered'.
+"0,0986111111111111",Camion.1013,TransferNode1,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1013' initiating transfer from '[Node] TransferNode1' onto link 'Path37'.
+"0,0986111111111111",Camion.1013,Path37,36.OnEntered,[Begin],Process 'Path37.OnEntered' started.
+"0,0986111111111111",Camion.1013,Path37,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1013' ending transfer onto link 'Path37'.
+"0,0986111111111111",Camion.1013,Path37,36.OnEntered,[End],Process 'Path37.OnEntered' ended.
+"0,0986111111111111",Camion.1013,Path234,53.OnReachedEnd,[End],Process 'Path234.OnReachedEnd' ended.
+"0,0986111111111111",Camion.1013,TransferNode1,20.OnEntered,[End],Process 'TransferNode1.OnEntered' ended.
+"0,0989997965536189",Camion.1060,Output@Aserradero87,20.OnExited,[Begin],Process 'Output@Aserradero87.OnExited' started.
+"0,0989997965536189",Camion.1060,Output@Aserradero87,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero87.Exited'.
+"0,0989997965536189",Camion.1060,Output@Aserradero87,20.OnExited,[End],Process 'Output@Aserradero87.OnExited' ended.
+"0,0989997965536189",Camion.1061,Output@Aserradero97,20.OnExited,[Begin],Process 'Output@Aserradero97.OnExited' started.
+"0,0989997965536189",Camion.1061,Output@Aserradero97,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero97.Exited'.
+"0,0989997965536189",Camion.1061,Output@Aserradero97,20.OnExited,[End],Process 'Output@Aserradero97.OnExited' ended.
+"0,0989997965536189",Camion.1062,Output@Aserradero33,20.OnExited,[Begin],Process 'Output@Aserradero33.OnExited' started.
+"0,0989997965536189",Camion.1062,Output@Aserradero33,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero33.Exited'.
+"0,0989997965536189",Camion.1062,Output@Aserradero33,20.OnExited,[End],Process 'Output@Aserradero33.OnExited' ended.
+"0,0989997965536189",Camion.1063,Output@Aserradero62,20.OnExited,[Begin],Process 'Output@Aserradero62.OnExited' started.
+"0,0989997965536189",Camion.1063,Output@Aserradero62,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero62.Exited'.
+"0,0989997965536189",Camion.1063,Output@Aserradero62,20.OnExited,[End],Process 'Output@Aserradero62.OnExited' ended.
+"0,0989997965536189",Camion.1064,Output@Aserradero34,20.OnExited,[Begin],Process 'Output@Aserradero34.OnExited' started.
+"0,0989997965536189",Camion.1064,Output@Aserradero34,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero34.Exited'.
+"0,0989997965536189",Camion.1064,Output@Aserradero34,20.OnExited,[End],Process 'Output@Aserradero34.OnExited' ended.
+"0,0989997965536189",Camion.1065,Output@Aserradero40,20.OnExited,[Begin],Process 'Output@Aserradero40.OnExited' started.
+"0,0989997965536189",Camion.1065,Output@Aserradero40,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero40.Exited'.
+"0,0989997965536189",Camion.1065,Output@Aserradero40,20.OnExited,[End],Process 'Output@Aserradero40.OnExited' ended.
+"0,0989997965536189",Camion.1066,Output@Aserradero67,20.OnExited,[Begin],Process 'Output@Aserradero67.OnExited' started.
+"0,0989997965536189",Camion.1066,Output@Aserradero67,20.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero67.Exited'.
+"0,0989997965536189",Camion.1066,Output@Aserradero67,20.OnExited,[End],Process 'Output@Aserradero67.OnExited' ended.
+"0,0997220187758412",Camion.1000,TransferNode40,20.OnExited,[Begin],Process 'TransferNode40.OnExited' started.
+"0,0997220187758412",Camion.1000,TransferNode40,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode40.Exited'.
+"0,0997220187758412",Camion.1000,TransferNode40,20.OnExited,[End],Process 'TransferNode40.OnExited' ended.
+"0,0997220187758412",Camion.1006,TransferNode42,20.OnExited,[Begin],Process 'TransferNode42.OnExited' started.
+"0,0997220187758412",Camion.1006,TransferNode42,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode42.Exited'.
+"0,0997220187758412",Camion.1006,TransferNode42,20.OnExited,[End],Process 'TransferNode42.OnExited' ended.
+"0,0997220187758412",Camion.1008,TransferNode63,20.OnExited,[Begin],Process 'TransferNode63.OnExited' started.
+"0,0997220187758412",Camion.1008,TransferNode63,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode63.Exited'.
+"0,0997220187758412",Camion.1008,TransferNode63,20.OnExited,[End],Process 'TransferNode63.OnExited' ended.
+"0,100833129886952",Camion.1011,TransferNode1,20.OnExited,[Begin],Process 'TransferNode1.OnExited' started.
+"0,100833129886952",Camion.1011,TransferNode1,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode1.Exited'.
+"0,100833129886952",Camion.1011,TransferNode1,20.OnExited,[End],Process 'TransferNode1.OnExited' ended.
+"0,101388888888889",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,101388888888889",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,101388888888889",Model,Model,20.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,101388888888889",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,101388888888889",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,101388888888889",Model,Model,20.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,102777777777778",Camion.1014,Path234,20.OnReachedEnd,[Begin],Process 'Path234.OnReachedEnd' started.
+"0,102777777777778",Camion.1014,Path234,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1014' initiating transfer from '[EndOfLink] Path234' into node 'TransferNode1'.
+"0,102777777777778",Camion.1014,TransferNode1,53.OnEntered,[Begin],Process 'TransferNode1.OnEntered' started.
+"0,102777777777778",Camion.1014,TransferNode1,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode1.Entered'.
+"0,102777777777778",Camion.1014,TransferNode1,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1014' initiating transfer from '[Node] TransferNode1' onto link 'Path37'.
+"0,102777777777778",Camion.1014,Path37,36.OnEntered,[Begin],Process 'Path37.OnEntered' started.
+"0,102777777777778",Camion.1014,Path37,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1014' ending transfer onto link 'Path37'.
+"0,102777777777778",Camion.1014,Path37,36.OnEntered,[End],Process 'Path37.OnEntered' ended.
+"0,102777777777778",Camion.1014,Path234,20.OnReachedEnd,[End],Process 'Path234.OnReachedEnd' ended.
+"0,102777777777778",Camion.1014,TransferNode1,53.OnEntered,[End],Process 'TransferNode1.OnEntered' ended.
+"0,104999796553619",Camion.1012,TransferNode1,53.OnExited,[Begin],Process 'TransferNode1.OnExited' started.
+"0,104999796553619",Camion.1012,TransferNode1,53.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode1.Exited'.
+"0,104999796553619",Camion.1012,TransferNode1,53.OnExited,[End],Process 'TransferNode1.OnExited' ended.
+"0,105555555555556",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,105555555555556",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,105555555555556",Model,Model,53.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,105555555555556",Model,Model,53.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,105555555555556",Model,Model,53.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,105555555555556",Model,Model,53.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,105833333333333",Camion.1002,Path124,53.OnReachedEnd,[Begin],Process 'Path124.OnReachedEnd' started.
+"0,105833333333333",Camion.1002,Path124,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1002' initiating transfer from '[EndOfLink] Path124' into node 'TransferNode2'.
+"0,105833333333333",Camion.1002,TransferNode2,20.OnEntered,[Begin],Process 'TransferNode2.OnEntered' started.
+"0,105833333333333",Camion.1002,TransferNode2,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode2.Entered'.
+"0,105833333333333",Camion.1002,TransferNode2,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1002' initiating transfer from '[Node] TransferNode2' onto link 'Path38'.
+"0,105833333333333",Camion.1002,Path38,36.OnEntered,[Begin],Process 'Path38.OnEntered' started.
+"0,105833333333333",Camion.1002,Path38,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1002' ending transfer onto link 'Path38'.
+"0,105833333333333",Camion.1002,Path38,36.OnEntered,[End],Process 'Path38.OnEntered' ended.
+"0,105833333333333",Camion.1002,Path124,53.OnReachedEnd,[End],Process 'Path124.OnReachedEnd' ended.
+"0,105833333333333",Camion.1002,TransferNode2,20.OnEntered,[End],Process 'TransferNode2.OnEntered' ended.
+"0,105833333333333",Camion.1005,Path112,20.OnReachedEnd,[Begin],Process 'Path112.OnReachedEnd' started.
+"0,105833333333333",Camion.1005,Path112,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1005' initiating transfer from '[EndOfLink] Path112' into node 'TransferNode20'.
+"0,105833333333333",Camion.1005,TransferNode20,53.OnEntered,[Begin],Process 'TransferNode20.OnEntered' started.
+"0,105833333333333",Camion.1005,TransferNode20,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode20.Entered'.
+"0,105833333333333",Camion.1005,TransferNode20,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1005' initiating transfer from '[Node] TransferNode20' onto link 'Path23'.
+"0,105833333333333",Camion.1005,Path23,36.OnEntered,[Begin],Process 'Path23.OnEntered' started.
+"0,105833333333333",Camion.1005,Path23,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1005' ending transfer onto link 'Path23'.
+"0,105833333333333",Camion.1005,Path23,36.OnEntered,[End],Process 'Path23.OnEntered' ended.
+"0,105833333333333",Camion.1005,Path112,20.OnReachedEnd,[End],Process 'Path112.OnReachedEnd' ended.
+"0,105833333333333",Camion.1005,TransferNode20,53.OnEntered,[End],Process 'TransferNode20.OnEntered' ended.
+"0,105833333333333",Camion.1007,Path444,53.OnReachedEnd,[Begin],Process 'Path444.OnReachedEnd' started.
+"0,105833333333333",Camion.1007,Path444,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1007' initiating transfer from '[EndOfLink] Path444' into node 'TransferNode52'.
+"0,105833333333333",Camion.1007,TransferNode52,20.OnEntered,[Begin],Process 'TransferNode52.OnEntered' started.
+"0,105833333333333",Camion.1007,TransferNode52,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode52.Entered'.
+"0,105833333333333",Camion.1007,TransferNode52,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1007' initiating transfer from '[Node] TransferNode52' onto link 'Path57'.
+"0,105833333333333",Camion.1007,Path57,36.OnEntered,[Begin],Process 'Path57.OnEntered' started.
+"0,105833333333333",Camion.1007,Path57,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1007' ending transfer onto link 'Path57'.
+"0,105833333333333",Camion.1007,Path57,36.OnEntered,[End],Process 'Path57.OnEntered' ended.
+"0,105833333333333",Camion.1007,Path444,53.OnReachedEnd,[End],Process 'Path444.OnReachedEnd' ended.
+"0,105833333333333",Camion.1007,TransferNode52,20.OnEntered,[End],Process 'TransferNode52.OnEntered' ended.
+"0,105833333333333",Camion.1010,Path453,20.OnReachedEnd,[Begin],Process 'Path453.OnReachedEnd' started.
+"0,105833333333333",Camion.1010,Path453,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1010' initiating transfer from '[EndOfLink] Path453' into node 'TransferNode53'.
+"0,105833333333333",Camion.1010,TransferNode53,53.OnEntered,[Begin],Process 'TransferNode53.OnEntered' started.
+"0,105833333333333",Camion.1010,TransferNode53,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode53.Entered'.
+"0,105833333333333",Camion.1010,TransferNode53,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1010' initiating transfer from '[Node] TransferNode53' onto link 'Path58'.
+"0,105833333333333",Camion.1010,Path58,36.OnEntered,[Begin],Process 'Path58.OnEntered' started.
+"0,105833333333333",Camion.1010,Path58,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1010' ending transfer onto link 'Path58'.
+"0,105833333333333",Camion.1010,Path58,36.OnEntered,[End],Process 'Path58.OnEntered' ended.
+"0,105833333333333",Camion.1010,Path453,20.OnReachedEnd,[End],Process 'Path453.OnReachedEnd' ended.
+"0,105833333333333",Camion.1010,TransferNode53,53.OnEntered,[End],Process 'TransferNode53.OnEntered' ended.
+"0,108796092849915",Camion.1067,Output@Aserradero10,53.OnExited,[Begin],Process 'Output@Aserradero10.OnExited' started.
+"0,108796092849915",Camion.1067,Output@Aserradero10,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero10.Exited'.
+"0,108796092849915",Camion.1067,Output@Aserradero10,53.OnExited,[End],Process 'Output@Aserradero10.OnExited' ended.
+"0,108796092849915",Camion.1068,Output@Aserradero11,53.OnExited,[Begin],Process 'Output@Aserradero11.OnExited' started.
+"0,108796092849915",Camion.1068,Output@Aserradero11,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero11.Exited'.
+"0,108796092849915",Camion.1068,Output@Aserradero11,53.OnExited,[End],Process 'Output@Aserradero11.OnExited' ended.
+"0,108796092849915",Camion.1069,Output@Aserradero55,53.OnExited,[Begin],Process 'Output@Aserradero55.OnExited' started.
+"0,108796092849915",Camion.1069,Output@Aserradero55,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero55.Exited'.
+"0,108796092849915",Camion.1069,Output@Aserradero55,53.OnExited,[End],Process 'Output@Aserradero55.OnExited' ended.
+"0,108796092849915",Camion.1070,Output@Aserradero4,53.OnExited,[Begin],Process 'Output@Aserradero4.OnExited' started.
+"0,108796092849915",Camion.1070,Output@Aserradero4,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero4.Exited'.
+"0,108796092849915",Camion.1070,Output@Aserradero4,53.OnExited,[End],Process 'Output@Aserradero4.OnExited' ended.
+"0,108796092849915",Camion.1071,Output@Aserradero53,53.OnExited,[Begin],Process 'Output@Aserradero53.OnExited' started.
+"0,108796092849915",Camion.1071,Output@Aserradero53,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero53.Exited'.
+"0,108796092849915",Camion.1071,Output@Aserradero53,53.OnExited,[End],Process 'Output@Aserradero53.OnExited' ended.
+"0,108796092849915",Camion.1072,Output@Aserradero61,53.OnExited,[Begin],Process 'Output@Aserradero61.OnExited' started.
+"0,108796092849915",Camion.1072,Output@Aserradero61,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero61.Exited'.
+"0,108796092849915",Camion.1072,Output@Aserradero61,53.OnExited,[End],Process 'Output@Aserradero61.OnExited' ended.
+"0,108796092849915",Camion.1073,Output@Aserradero50,53.OnExited,[Begin],Process 'Output@Aserradero50.OnExited' started.
+"0,108796092849915",Camion.1073,Output@Aserradero50,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero50.Exited'.
+"0,108796092849915",Camion.1073,Output@Aserradero50,53.OnExited,[End],Process 'Output@Aserradero50.OnExited' ended.
+"0,108796092849915",Camion.1074,Output@Aserradero60,53.OnExited,[Begin],Process 'Output@Aserradero60.OnExited' started.
+"0,108796092849915",Camion.1074,Output@Aserradero60,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero60.Exited'.
+"0,108796092849915",Camion.1074,Output@Aserradero60,53.OnExited,[End],Process 'Output@Aserradero60.OnExited' ended.
+"0,108796092849915",Camion.1075,Output@Aserradero38,53.OnExited,[Begin],Process 'Output@Aserradero38.OnExited' started.
+"0,108796092849915",Camion.1075,Output@Aserradero38,53.OnExited,[Fire] ExitedEvent,Firing event 'Output@Aserradero38.Exited'.
+"0,108796092849915",Camion.1075,Output@Aserradero38,53.OnExited,[End],Process 'Output@Aserradero38.OnExited' ended.
+"0,109166463220286",Camion.1013,TransferNode1,53.OnExited,[Begin],Process 'TransferNode1.OnExited' started.
+"0,109166463220286",Camion.1013,TransferNode1,53.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode1.Exited'.
+"0,109166463220286",Camion.1013,TransferNode1,53.OnExited,[End],Process 'TransferNode1.OnExited' ended.
+"0,109722222222222",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,109722222222222",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,109722222222222",Model,Model,53.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,109722222222222",Model,Model,53.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,109722222222222",Model,Model,53.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,109722222222222",Model,Model,53.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,110486111111111",--,--,--,--,Firing event 'Aserradero100.TimerCreacion.Event'.
+"0,110486111111111",--,--,--,--,Firing event 'Aserradero100.Monitor1.Event'.
+"0,110486111111111",Aserradero100,Aserradero100,53.Process1,[Begin],Process 'Aserradero100.Process1' started.
+"0,110486111111111",Aserradero100,Aserradero100,53.Process1,[Fire] Fire4,Firing event 'Aserradero100.CrearEntidad'.
+"0,110486111111111",--,--,--,--,Firing event 'Aserradero100.EntityArrivals.Event'.
+"0,110486111111111",Aserradero100,Aserradero100,53.Process1,[End],Process 'Aserradero100.Process1' ended.
+"0,110486111111111",Aserradero100,Aserradero100,20.OnEntityArrival,[Begin],Process 'Aserradero100.OnEntityArrival' started.
+"0,110486111111111",Aserradero100,Aserradero100,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,110486111111111",Aserradero100,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,110486111111111",Aserradero100,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero100.NodoLlegada' the value 'LlegadaAserradero100'.
+"0,110486111111111",Aserradero100,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,110486111111111",Aserradero100,Aserradero100,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,110486111111111",--,--,--,--,Object 'Camion.1076' created.
+"0,110486111111111",Camion.1076,Aserradero100,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1076' initiating transfer from '[FreeSpace] Aserradero100' into station location 'Aserradero100.Processing'.
+"0,110486111111111",Aserradero100,Aserradero100,20.OnEntityArrival,[End],Process 'Aserradero100.OnEntityArrival' ended.
+"0,110486111111111",Camion.1076,Aserradero100,36.OnEnteredProcessing,[Begin],Process 'Aserradero100.OnEnteredProcessing' started.
+"0,110486111111111",Camion.1076,Aserradero100,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1076' ending transfer into station 'Aserradero100.Processing'.
+"0,110486111111111",Camion.1076,Aserradero100,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,110486111111111",Camion.1076,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,110486111111111",Camion.1076,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1076.HomeNode' the value 'LlegadaAserradero100'.
+"0,110486111111111",Camion.1076,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1076.MyID' the value '100'.
+"0,110486111111111",Camion.1076,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[100]' the value '4'.
+"0,110486111111111",Camion.1076,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,110486111111111",Camion.1076,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,110486111111111",Camion.1076,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1076.peso' the value '31,2544730005339'."
+"0,110486111111111",Camion.1076,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,110486111111111",Camion.1076,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,110486111111111",Camion.1076,Aserradero100,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1076' initiating transfer from '[Station] Aserradero100.Processing' into station location 'Aserradero100.OutputBuffer'.
+"0,110486111111111",Camion.1076,Aserradero100,53.OnEntityArrival,[End],Process 'Aserradero100.OnEntityArrival' ended.
+"0,110486111111111",Camion.1076,Aserradero100,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero100.OnEnteredOutputBuffer' started.
+"0,110486111111111",Camion.1076,Aserradero100,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1076' ending transfer into station 'Aserradero100.OutputBuffer'.
+"0,110486111111111",Camion.1076,Aserradero100,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1076' initiating transfer from '[Station] Aserradero100.OutputBuffer' into node 'Output@Aserradero100'.
+"0,110486111111111",Camion.1076,Output@Aserradero100,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero100.OnEnteredFromAssociatedObject' started.
+"0,110486111111111",Camion.1076,Output@Aserradero100,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero100.Entered'.
+"0,110486111111111",Camion.1076,Output@Aserradero100,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,110486111111111",Camion.1076,Output@Aserradero100,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,110486111111111",Camion.1076,Output@Aserradero100,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero100.RoutingOutLogic'.
+"0,110486111111111",Camion.1076,Output@Aserradero100,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero100.RoutingOutLogic' started.
+"0,110486111111111",Camion.1076,Output@Aserradero100,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1076' set to value 'Input@BrightPesajeEntrada'.
+"0,110486111111111",Camion.1076,Output@Aserradero100,19.RoutingOutLogic,[End],Process 'Output@Aserradero100.RoutingOutLogic' ended.
+"0,110486111111111",Camion.1076,Output@Aserradero100,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1076' initiating transfer from '[Node] Output@Aserradero100' onto link 'Path469'.
+"0,110486111111111",Camion.1076,Path469,19.OnEntered,[Begin],Process 'Path469.OnEntered' started.
+"0,110486111111111",Camion.1076,Path469,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1076' ending transfer onto link 'Path469'.
+"0,110486111111111",Camion.1076,Path469,19.OnEntered,[End],Process 'Path469.OnEntered' ended.
+"0,110486111111111",Camion.1076,Aserradero100,36.OnEnteredProcessing,[End],Process 'Aserradero100.OnEnteredProcessing' ended.
+"0,110486111111111",Camion.1076,Aserradero100,20.OnEnteredOutputBuffer,[End],Process 'Aserradero100.OnEnteredOutputBuffer' ended.
+"0,110486111111111",Camion.1076,Output@Aserradero100,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero100.OnEnteredFromAssociatedObject' ended.
+"0,110486111111111",--,--,--,--,Firing event 'Aserradero88.TimerCreacion.Event'.
+"0,110486111111111",--,--,--,--,Firing event 'Aserradero88.Monitor1.Event'.
+"0,110486111111111",Aserradero88,Aserradero88,53.Process1,[Begin],Process 'Aserradero88.Process1' started.
+"0,110486111111111",Aserradero88,Aserradero88,53.Process1,[Fire] Fire4,Firing event 'Aserradero88.CrearEntidad'.
+"0,110486111111111",--,--,--,--,Firing event 'Aserradero88.EntityArrivals.Event'.
+"0,110486111111111",Aserradero88,Aserradero88,53.Process1,[End],Process 'Aserradero88.Process1' ended.
+"0,110486111111111",Aserradero88,Aserradero88,20.OnEntityArrival,[Begin],Process 'Aserradero88.OnEntityArrival' started.
+"0,110486111111111",Aserradero88,Aserradero88,20.OnEntityArrival,[Execute] CreatingEntities_AddOnProcess,Executing process 'CreandoCamiones'.
+"0,110486111111111",Aserradero88,Model,53.CreandoCamiones,[Begin],Process 'CreandoCamiones' started.
+"0,110486111111111",Aserradero88,Model,53.CreandoCamiones,[Assign] Assign4,Assigning state variable 'Aserradero88.NodoLlegada' the value 'LlegadaAserradero88'.
+"0,110486111111111",Aserradero88,Model,53.CreandoCamiones,[End],Process 'CreandoCamiones' ended.
+"0,110486111111111",Aserradero88,Aserradero88,20.OnEntityArrival,[Create] Entities,Creating '1' object(s) of entity type 'Camion' using creation method 'NewObject'.
+"0,110486111111111",--,--,--,--,Object 'Camion.1077' created.
+"0,110486111111111",Camion.1077,Aserradero88,53.OnEntityArrival,[Transfer] ToProcessing,Entity 'Camion.1077' initiating transfer from '[FreeSpace] Aserradero88' into station location 'Aserradero88.Processing'.
+"0,110486111111111",Aserradero88,Aserradero88,20.OnEntityArrival,[End],Process 'Aserradero88.OnEntityArrival' ended.
+"0,110486111111111",Camion.1077,Aserradero88,36.OnEnteredProcessing,[Begin],Process 'Aserradero88.OnEnteredProcessing' started.
+"0,110486111111111",Camion.1077,Aserradero88,36.OnEnteredProcessing,[EndTransfer] IntoProcessing,Entity 'Camion.1077' ending transfer into station 'Aserradero88.Processing'.
+"0,110486111111111",Camion.1077,Aserradero88,36.OnEnteredProcessing,[Execute] CreatedEntity_AddOnProcess,Executing process 'CrearCamiones'.
+"0,110486111111111",Camion.1077,Model,20.CrearCamiones,[Begin],Process 'CrearCamiones' started.
+"0,110486111111111",Camion.1077,Model,20.CrearCamiones,[Assign] SetHomeNode,Assigning state variable 'Camion.1077.HomeNode' the value 'LlegadaAserradero88'.
+"0,110486111111111",Camion.1077,Model,20.CrearCamiones,[Assign] Assign1,Assigning state variable 'Camion.1077.MyID' the value '88'.
+"0,110486111111111",Camion.1077,Model,20.CrearCamiones,[Assign] UpdateNCamiones,Assigning state variable 'Model.CamionesActivos[88]' the value '4'.
+"0,110486111111111",Camion.1077,Model,20.CrearCamiones,[Execute] CargaCamion,Executing process 'CargaCamiones'.
+"0,110486111111111",Camion.1077,Model,19.CargaCamiones,[Begin],Process 'CargaCamiones' started.
+"0,110486111111111",Camion.1077,Model,19.CargaCamiones,[Assign] AsignarPeso,"Assigning state variable 'Camion.1077.peso' the value '26,7911702312155'."
+"0,110486111111111",Camion.1077,Model,19.CargaCamiones,[End],Process 'CargaCamiones' ended.
+"0,110486111111111",Camion.1077,Model,20.CrearCamiones,[End],Process 'CrearCamiones' ended.
+"0,110486111111111",Camion.1077,Aserradero88,36.OnEnteredProcessing,[Transfer] ToOutputBuffer,Entity 'Camion.1077' initiating transfer from '[Station] Aserradero88.Processing' into station location 'Aserradero88.OutputBuffer'.
+"0,110486111111111",Camion.1077,Aserradero88,53.OnEntityArrival,[End],Process 'Aserradero88.OnEntityArrival' ended.
+"0,110486111111111",Camion.1077,Aserradero88,20.OnEnteredOutputBuffer,[Begin],Process 'Aserradero88.OnEnteredOutputBuffer' started.
+"0,110486111111111",Camion.1077,Aserradero88,20.OnEnteredOutputBuffer,[EndTransfer] IntoOutputBuffer,Entity 'Camion.1077' ending transfer into station 'Aserradero88.OutputBuffer'.
+"0,110486111111111",Camion.1077,Aserradero88,20.OnEnteredOutputBuffer,[Transfer] ToOutputNode,Entity 'Camion.1077' initiating transfer from '[Station] Aserradero88.OutputBuffer' into node 'Output@Aserradero88'.
+"0,110486111111111",Camion.1077,Output@Aserradero88,53.OnEnteredFromAssociatedObject,[Begin],Process 'Output@Aserradero88.OnEnteredFromAssociatedObject' started.
+"0,110486111111111",Camion.1077,Output@Aserradero88,53.OnEnteredFromAssociatedObject,[Fire] EnteredEvent,Firing event 'Output@Aserradero88.Entered'.
+"0,110486111111111",Camion.1077,Output@Aserradero88,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token branching on condition 'Entity.Is.Transporter'.
+"0,110486111111111",Camion.1077,Output@Aserradero88,53.OnEnteredFromAssociatedObject,[Decide] IfTransporter,Token sent to 'False' exit.
+"0,110486111111111",Camion.1077,Output@Aserradero88,53.OnEnteredFromAssociatedObject,[Execute] RoutingOutLogic,Executing process 'Output@Aserradero88.RoutingOutLogic'.
+"0,110486111111111",Camion.1077,Output@Aserradero88,19.RoutingOutLogic,[Begin],Process 'Output@Aserradero88.RoutingOutLogic' started.
+"0,110486111111111",Camion.1077,Output@Aserradero88,19.RoutingOutLogic,[SetNode] EntityDestination,Destination node of entity 'Camion.1077' set to value 'Input@BrightPesajeEntrada'.
+"0,110486111111111",Camion.1077,Output@Aserradero88,19.RoutingOutLogic,[End],Process 'Output@Aserradero88.RoutingOutLogic' ended.
+"0,110486111111111",Camion.1077,Output@Aserradero88,53.OnEnteredFromAssociatedObject,[Transfer] ToOutboundLink,Entity 'Camion.1077' initiating transfer from '[Node] Output@Aserradero88' onto link 'Path453'.
+"0,110486111111111",Camion.1077,Path453,19.OnEntered,[Begin],Process 'Path453.OnEntered' started.
+"0,110486111111111",Camion.1077,Path453,19.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1077' ending transfer onto link 'Path453'.
+"0,110486111111111",Camion.1077,Path453,19.OnEntered,[End],Process 'Path453.OnEntered' ended.
+"0,110486111111111",Camion.1077,Aserradero88,36.OnEnteredProcessing,[End],Process 'Aserradero88.OnEnteredProcessing' ended.
+"0,110486111111111",Camion.1077,Aserradero88,20.OnEnteredOutputBuffer,[End],Process 'Aserradero88.OnEnteredOutputBuffer' ended.
+"0,110486111111111",Camion.1077,Output@Aserradero88,53.OnEnteredFromAssociatedObject,[End],Process 'Output@Aserradero88.OnEnteredFromAssociatedObject' ended.
+"0,111388888888889",Camion.993,Path180,53.OnReachedEnd,[Begin],Process 'Path180.OnReachedEnd' started.
+"0,111388888888889",Camion.993,Path180,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.993' initiating transfer from '[EndOfLink] Path180' into node 'TransferNode30'.
+"0,111388888888889",Camion.993,TransferNode30,20.OnEntered,[Begin],Process 'TransferNode30.OnEntered' started.
+"0,111388888888889",Camion.993,TransferNode30,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode30.Entered'.
+"0,111388888888889",Camion.993,TransferNode30,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.993' initiating transfer from '[Node] TransferNode30' onto link 'Path22'.
+"0,111388888888889",Camion.993,Path22,36.OnEntered,[Begin],Process 'Path22.OnEntered' started.
+"0,111388888888889",Camion.993,Path22,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.993' ending transfer onto link 'Path22'.
+"0,111388888888889",Camion.993,Path22,36.OnEntered,[End],Process 'Path22.OnEntered' ended.
+"0,111388888888889",Camion.993,Path180,53.OnReachedEnd,[End],Process 'Path180.OnReachedEnd' ended.
+"0,111388888888889",Camion.993,TransferNode30,20.OnEntered,[End],Process 'TransferNode30.OnEntered' ended.
+"0,111388888888889",Camion.994,Path198,20.OnReachedEnd,[Begin],Process 'Path198.OnReachedEnd' started.
+"0,111388888888889",Camion.994,Path198,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.994' initiating transfer from '[EndOfLink] Path198' into node 'TransferNode37'.
+"0,111388888888889",Camion.994,TransferNode37,53.OnEntered,[Begin],Process 'TransferNode37.OnEntered' started.
+"0,111388888888889",Camion.994,TransferNode37,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode37.Entered'.
+"0,111388888888889",Camion.994,TransferNode37,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.994' initiating transfer from '[Node] TransferNode37' onto link 'Path44'.
+"0,111388888888889",Camion.994,Path44,36.OnEntered,[Begin],Process 'Path44.OnEntered' started.
+"0,111388888888889",Camion.994,Path44,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.994' ending transfer onto link 'Path44'.
+"0,111388888888889",Camion.994,Path44,36.OnEntered,[End],Process 'Path44.OnEntered' ended.
+"0,111388888888889",Camion.994,Path198,20.OnReachedEnd,[End],Process 'Path198.OnReachedEnd' ended.
+"0,111388888888889",Camion.994,TransferNode37,53.OnEntered,[End],Process 'TransferNode37.OnEntered' ended.
+"0,111388888888889",Camion.995,Path403,53.OnReachedEnd,[Begin],Process 'Path403.OnReachedEnd' started.
+"0,111388888888889",Camion.995,Path403,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.995' initiating transfer from '[EndOfLink] Path403' into node 'TransferNode60'.
+"0,111388888888889",Camion.995,TransferNode60,20.OnEntered,[Begin],Process 'TransferNode60.OnEntered' started.
+"0,111388888888889",Camion.995,TransferNode60,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode60.Entered'.
+"0,111388888888889",Camion.995,TransferNode60,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.995' initiating transfer from '[Node] TransferNode60' onto link 'Path69'.
+"0,111388888888889",Camion.995,Path69,36.OnEntered,[Begin],Process 'Path69.OnEntered' started.
+"0,111388888888889",Camion.995,Path69,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.995' ending transfer onto link 'Path69'.
+"0,111388888888889",Camion.995,Path69,36.OnEntered,[End],Process 'Path69.OnEntered' ended.
+"0,111388888888889",Camion.995,Path403,53.OnReachedEnd,[End],Process 'Path403.OnReachedEnd' ended.
+"0,111388888888889",Camion.995,TransferNode60,20.OnEntered,[End],Process 'TransferNode60.OnEntered' ended.
+"0,111388888888889",Camion.997,Path184,20.OnReachedEnd,[Begin],Process 'Path184.OnReachedEnd' started.
+"0,111388888888889",Camion.997,Path184,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.997' initiating transfer from '[EndOfLink] Path184' into node 'TransferNode32'.
+"0,111388888888889",Camion.997,TransferNode32,53.OnEntered,[Begin],Process 'TransferNode32.OnEntered' started.
+"0,111388888888889",Camion.997,TransferNode32,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode32.Entered'.
+"0,111388888888889",Camion.997,TransferNode32,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.997' initiating transfer from '[Node] TransferNode32' onto link 'Path20'.
+"0,111388888888889",Camion.997,Path20,36.OnEntered,[Begin],Process 'Path20.OnEntered' started.
+"0,111388888888889",Camion.997,Path20,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.997' ending transfer onto link 'Path20'.
+"0,111388888888889",Camion.997,Path20,36.OnEntered,[End],Process 'Path20.OnEntered' ended.
+"0,111388888888889",Camion.997,Path184,20.OnReachedEnd,[End],Process 'Path184.OnReachedEnd' ended.
+"0,111388888888889",Camion.997,TransferNode32,53.OnEntered,[End],Process 'TransferNode32.OnEntered' ended.
+"0,111388888888889",Camion.998,Path302,53.OnReachedEnd,[Begin],Process 'Path302.OnReachedEnd' started.
+"0,111388888888889",Camion.998,Path302,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.998' initiating transfer from '[EndOfLink] Path302' into node 'TransferNode73'.
+"0,111388888888889",Camion.998,TransferNode73,20.OnEntered,[Begin],Process 'TransferNode73.OnEntered' started.
+"0,111388888888889",Camion.998,TransferNode73,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode73.Entered'.
+"0,111388888888889",Camion.998,TransferNode73,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.998' initiating transfer from '[Node] TransferNode73' onto link 'Path73'.
+"0,111388888888889",Camion.998,Path73,36.OnEntered,[Begin],Process 'Path73.OnEntered' started.
+"0,111388888888889",Camion.998,Path73,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.998' ending transfer onto link 'Path73'.
+"0,111388888888889",Camion.998,Path73,36.OnEntered,[End],Process 'Path73.OnEntered' ended.
+"0,111388888888889",Camion.998,Path302,53.OnReachedEnd,[End],Process 'Path302.OnReachedEnd' ended.
+"0,111388888888889",Camion.998,TransferNode73,20.OnEntered,[End],Process 'TransferNode73.OnEntered' ended.
+"0,111388888888889",Camion.999,Path407,20.OnReachedEnd,[Begin],Process 'Path407.OnReachedEnd' started.
+"0,111388888888889",Camion.999,Path407,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.999' initiating transfer from '[EndOfLink] Path407' into node 'TransferNode67'.
+"0,111388888888889",Camion.999,TransferNode67,53.OnEntered,[Begin],Process 'TransferNode67.OnEntered' started.
+"0,111388888888889",Camion.999,TransferNode67,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode67.Entered'.
+"0,111388888888889",Camion.999,TransferNode67,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.999' initiating transfer from '[Node] TransferNode67' onto link 'Path68'.
+"0,111388888888889",Camion.999,Path68,36.OnEntered,[Begin],Process 'Path68.OnEntered' started.
+"0,111388888888889",Camion.999,Path68,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.999' ending transfer onto link 'Path68'.
+"0,111388888888889",Camion.999,Path68,36.OnEntered,[End],Process 'Path68.OnEntered' ended.
+"0,111388888888889",Camion.999,Path407,20.OnReachedEnd,[End],Process 'Path407.OnReachedEnd' ended.
+"0,111388888888889",Camion.999,TransferNode67,53.OnEntered,[End],Process 'TransferNode67.OnEntered' ended.
+"0,111388888888889",Camion.1001,Path170,53.OnReachedEnd,[Begin],Process 'Path170.OnReachedEnd' started.
+"0,111388888888889",Camion.1001,Path170,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1001' initiating transfer from '[EndOfLink] Path170' into node 'TransferNode7'.
+"0,111388888888889",Camion.1001,TransferNode7,20.OnEntered,[Begin],Process 'TransferNode7.OnEntered' started.
+"0,111388888888889",Camion.1001,TransferNode7,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode7.Entered'.
+"0,111388888888889",Camion.1001,TransferNode7,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1001' initiating transfer from '[Node] TransferNode7' onto link 'Path29'.
+"0,111388888888889",Camion.1001,Path29,36.OnEntered,[Begin],Process 'Path29.OnEntered' started.
+"0,111388888888889",Camion.1001,Path29,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1001' ending transfer onto link 'Path29'.
+"0,111388888888889",Camion.1001,Path29,36.OnEntered,[End],Process 'Path29.OnEntered' ended.
+"0,111388888888889",Camion.1001,Path170,53.OnReachedEnd,[End],Process 'Path170.OnReachedEnd' ended.
+"0,111388888888889",Camion.1001,TransferNode7,20.OnEntered,[End],Process 'TransferNode7.OnEntered' ended.
+"0,111388888888889",Camion.1003,Path126,20.OnReachedEnd,[Begin],Process 'Path126.OnReachedEnd' started.
+"0,111388888888889",Camion.1003,Path126,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1003' initiating transfer from '[EndOfLink] Path126' into node 'TransferNode2'.
+"0,111388888888889",Camion.1003,TransferNode2,53.OnEntered,[Begin],Process 'TransferNode2.OnEntered' started.
+"0,111388888888889",Camion.1003,TransferNode2,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode2.Entered'.
+"0,111388888888889",Camion.1003,TransferNode2,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1003' initiating transfer from '[Node] TransferNode2' onto link 'Path38'.
+"0,111388888888889",Camion.1003,Path38,36.OnEntered,[Begin],Process 'Path38.OnEntered' started.
+"0,111388888888889",Camion.1003,Path38,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1003' ending transfer onto link 'Path38'.
+"0,111388888888889",Camion.1003,Path38,36.OnEntered,[End],Process 'Path38.OnEntered' ended.
+"0,111388888888889",Camion.1003,Path126,20.OnReachedEnd,[End],Process 'Path126.OnReachedEnd' ended.
+"0,111388888888889",Camion.1003,TransferNode2,53.OnEntered,[End],Process 'TransferNode2.OnEntered' ended.
+"0,111388888888889",Camion.1004,Path311,53.OnReachedEnd,[Begin],Process 'Path311.OnReachedEnd' started.
+"0,111388888888889",Camion.1004,Path311,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1004' initiating transfer from '[EndOfLink] Path311' into node 'TransferNode34'.
+"0,111388888888889",Camion.1004,TransferNode34,20.OnEntered,[Begin],Process 'TransferNode34.OnEntered' started.
+"0,111388888888889",Camion.1004,TransferNode34,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode34.Entered'.
+"0,111388888888889",Camion.1004,TransferNode34,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1004' initiating transfer from '[Node] TransferNode34' onto link 'Path41'.
+"0,111388888888889",Camion.1004,Path41,36.OnEntered,[Begin],Process 'Path41.OnEntered' started.
+"0,111388888888889",Camion.1004,Path41,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1004' ending transfer onto link 'Path41'.
+"0,111388888888889",Camion.1004,Path41,36.OnEntered,[End],Process 'Path41.OnEntered' ended.
+"0,111388888888889",Camion.1004,Path311,53.OnReachedEnd,[End],Process 'Path311.OnReachedEnd' ended.
+"0,111388888888889",Camion.1004,TransferNode34,20.OnEntered,[End],Process 'TransferNode34.OnEntered' ended.
+"0,111388888888889",Camion.1009,Path410,20.OnReachedEnd,[Begin],Process 'Path410.OnReachedEnd' started.
+"0,111388888888889",Camion.1009,Path410,20.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.1009' initiating transfer from '[EndOfLink] Path410' into node 'TransferNode69'.
+"0,111388888888889",Camion.1009,TransferNode69,53.OnEntered,[Begin],Process 'TransferNode69.OnEntered' started.
+"0,111388888888889",Camion.1009,TransferNode69,53.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode69.Entered'.
+"0,111388888888889",Camion.1009,TransferNode69,53.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.1009' initiating transfer from '[Node] TransferNode69' onto link 'Path3'.
+"0,111388888888889",Camion.1009,Path3,36.OnEntered,[Begin],Process 'Path3.OnEntered' started.
+"0,111388888888889",Camion.1009,Path3,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.1009' ending transfer onto link 'Path3'.
+"0,111388888888889",Camion.1009,Path3,36.OnEntered,[End],Process 'Path3.OnEntered' ended.
+"0,111388888888889",Camion.1009,Path410,20.OnReachedEnd,[End],Process 'Path410.OnReachedEnd' ended.
+"0,111388888888889",Camion.1009,TransferNode69,53.OnEntered,[End],Process 'TransferNode69.OnEntered' ended.
+"0,111611111111111",Camion.996,Path172,53.OnReachedEnd,[Begin],Process 'Path172.OnReachedEnd' started.
+"0,111611111111111",Camion.996,Path172,53.OnReachedEnd,[Transfer] FromPath,Entity 'Camion.996' initiating transfer from '[EndOfLink] Path172' into node 'TransferNode8'.
+"0,111611111111111",Camion.996,TransferNode8,20.OnEntered,[Begin],Process 'TransferNode8.OnEntered' started.
+"0,111611111111111",Camion.996,TransferNode8,20.OnEntered,[Fire] EnteredEvent,Firing event 'TransferNode8.Entered'.
+"0,111611111111111",Camion.996,TransferNode8,20.OnEntered,[Transfer] ToOutboundLink,Entity 'Camion.996' initiating transfer from '[Node] TransferNode8' onto link 'Path30'.
+"0,111611111111111",Camion.996,Path30,36.OnEntered,[Begin],Process 'Path30.OnEntered' started.
+"0,111611111111111",Camion.996,Path30,36.OnEntered,[EndTransfer] OntoPath,Entity 'Camion.996' ending transfer onto link 'Path30'.
+"0,111611111111111",Camion.996,Path30,36.OnEntered,[End],Process 'Path30.OnEntered' ended.
+"0,111611111111111",Camion.996,Path172,53.OnReachedEnd,[End],Process 'Path172.OnReachedEnd' ended.
+"0,111611111111111",Camion.996,TransferNode8,20.OnEntered,[End],Process 'TransferNode8.OnEntered' ended.
+"0,113333129886952",Camion.1014,TransferNode1,20.OnExited,[Begin],Process 'TransferNode1.OnExited' started.
+"0,113333129886952",Camion.1014,TransferNode1,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode1.Exited'.
+"0,113333129886952",Camion.1014,TransferNode1,20.OnExited,[End],Process 'TransferNode1.OnExited' ended.
+"0,113888888888889",--,--,--,--,Firing event 'CreacionEntidades1.Event'.
+"0,113888888888889",--,--,--,--,Firing event 'ControlAserradero.Event'.
+"0,113888888888889",Model,Model,20.CreacionAserradero,[Begin],Process 'CreacionAserradero' started.
+"0,113888888888889",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token branching on condition 'CamionesActivos[1] < NodosAserraderos[1].MaxCam'.
+"0,113888888888889",Model,Model,20.CreacionAserradero,[Decide] Decide1,Token sent to 'False' exit.
+"0,113888888888889",Model,Model,20.CreacionAserradero,[End],Process 'CreacionAserradero' ended.
+"0,116388685442508",Camion.1002,TransferNode2,20.OnExited,[Begin],Process 'TransferNode2.OnExited' started.
+"0,116388685442508",Camion.1002,TransferNode2,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode2.Exited'.
+"0,116388685442508",Camion.1002,TransferNode2,20.OnExited,[End],Process 'TransferNode2.OnExited' ended.
+"0,116388685442508",Camion.1005,TransferNode20,20.OnExited,[Begin],Process 'TransferNode20.OnExited' started.
+"0,116388685442508",Camion.1005,TransferNode20,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode20.Exited'.
+"0,116388685442508",Camion.1005,TransferNode20,20.OnExited,[End],Process 'TransferNode20.OnExited' ended.
+"0,116388685442508",Camion.1007,TransferNode52,20.OnExited,[Begin],Process 'TransferNode52.OnExited' started.
+"0,116388685442508",Camion.1007,TransferNode52,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode52.Exited'.
+"0,116388685442508",Camion.1007,TransferNode52,20.OnExited,[End],Process 'TransferNode52.OnExited' ended.
+"0,116388685442508",Camion.1010,TransferNode53,20.OnExited,[Begin],Process 'TransferNode53.OnExited' started.
+"0,116388685442508",Camion.1010,TransferNode53,20.OnExited,[Fire] ExitedEvent,Firing event 'TransferNode53.Exited'.
+"0,116388685442508",Camion.1010,TransferNode53,20.OnExited,[End],Process 'TransferNode53.OnExited' ended.
+
