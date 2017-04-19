@@ -20,6 +20,7 @@ class Aserradero:
             nuevo_dia = random.randint(0, 6)
             while nuevo_dia == self.dias_libres[0]:
                 nuevo_dia = random.randint(0, 6)
+            self.dias_libres.append(nuevo_dia)
 
 aserraderos = []
 for i in range(5, 100, 10):
