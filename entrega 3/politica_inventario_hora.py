@@ -180,8 +180,8 @@ def SIMULAR_AÑO(imprimir):
 
     return (round(inv_B), round(inv_K), round(inv_P), multas_B, multas_K, multas_P)
 
-n=1
-replicas = [SIMULAR_AÑO(1) for i in range(n)]
+n=10
+replicas = [SIMULAR_AÑO(0) for i in range(n)]
 resultados = list(zip(*replicas))
 
 
@@ -198,4 +198,3 @@ print("        min   prom  max    Tmultas")
 print("Bright:", end=" "); print(min(bright), end=" "); print(prom(bright), end=" "); print(max(bright), end="   "); print(sum(MB), end="\n")
 print("Koala:", end="  "); print(min(koala), end=" "); print(prom(koala), end=" "); print(max(koala), end="   "); print(sum(MK), end="\n")
 print("Paper:", end="  "); print(min(paper), end=" "); print(prom(paper), end=" "); print(max(paper), end="   "); print(sum(MP), end="\n")
-#print("multas:", end="   "); print(min(allMultas), end="    "); print(prom(allMultas, d=2), end="   "); print(max(allMultas), end="   ")
