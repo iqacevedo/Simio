@@ -390,8 +390,8 @@ def graficar_inventarios_replica(j, inventarios_historicos):
     minimo_p_1 = min(paper_r1)
     #print(minimo_b_1, minimo_k_1, minimo_p_1)
 
-    #plt.plot(range(1,2*365*24+1), bright_r1, color="orange")
-    plt.plot(range(1,2*365*24+1), koala_r1, color="blue")
+    plt.plot(range(1,2*365*24+1), bright_r1, color="orange")
+    #plt.plot(range(1,2*365*24+1), koala_r1, color="blue")
     #plt.plot(range(1,2*365*24+1), paper_r1, color="red")
     plt.plot([2160 for i in range(10)], [20000 + i * 4500 for i in range(10)], color = "black")
     plt.plot([3600 for i in range(10)], [20000 + i * 4500 for i in range(10)], color="black")
