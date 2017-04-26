@@ -391,16 +391,17 @@ def graficar_inventarios_replica(j, inventarios_historicos):
     #print(minimo_b_1, minimo_k_1, minimo_p_1)
 
     plt.plot(range(1,2*365*24+1), bright_r1, color="orange")
-    #plt.plot(range(1,2*365*24+1), koala_r1, color="blue")
-    #plt.plot(range(1,2*365*24+1), paper_r1, color="red")
+    plt.plot(range(1,2*365*24+1), koala_r1, color="blue")
+    plt.plot(range(1,2*365*24+1), paper_r1, color="red")
     plt.plot([2160 for i in range(10)], [20000 + i * 4500 for i in range(10)], color = "black")
     plt.plot([3600 for i in range(10)], [20000 + i * 4500 for i in range(10)], color="black")
-    plt.plot([8640 for i in range(10)], [20000 + i*4500 for i in range(10)], color = "red")
+    plt.plot([8640 for i in range(10)], [20000 + i*4500 for i in range(10)], color = "black")
     plt.plot([10800 for i in range(10)], [20000 + i * 4500 for i in range(10)],color="black")
     plt.plot([12240 for i in range(10)], [20000 + i * 4500 for i in range(10)],color="black")
     plt.ylim(20000, 65000)
-
-    plt.title("Bright = Orange,    Koala = Blue,    Paper = Red")
+    plt.title("Inventario durante 2 años de simulacion\n Bright = naranjo, Koala = azul, Paper = red")
+    plt.xlabel("Horas")
+    plt.ylabel("Inventario")
     #plt.plot(range(1, 361*24), [minimo_b_1 for i in range(360*24)])
     plt.show()
 
