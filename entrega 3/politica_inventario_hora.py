@@ -399,9 +399,9 @@ def graficar_inventarios_replica(j, inventarios_historicos):
     plt.plot([10800 for i in range(10)], [20000 + i * 4500 for i in range(10)],color="black")
     plt.plot([12240 for i in range(10)], [20000 + i * 4500 for i in range(10)],color="black")
     plt.ylim(20000, 65000)
-    plt.title("Inventario durante 2 años de simulacion\n Bright = naranjo, Koala = azul, Paper = red")
-    plt.xlabel("Horas")
-    plt.ylabel("Inventario")
+    plt.title("Inventory during 2 years of Simulation\n orange = Bright, blue = Koala, red = Paper")
+    plt.xlabel("Hours")
+    plt.ylabel("Inventory")
     #plt.plot(range(1, 361*24), [minimo_b_1 for i in range(360*24)])
     plt.show()
 
